@@ -1,843 +1,568 @@
 {
-  "tag": "radio_17_funk",
-  "info": {
-    "title": "Space 103.2",
-    "genre": "Funk and R&B",
-    "logo": "Space.svg",
-    "dj": "Bootsy Collins"
-  },
-  "fileGroups": [
-    {
-      "tag": "track",
-      "files": [
-        {
-          "path": "back_and_forth.m4a",
-          "duration": 217.64,
-          "audibleDuration": 216.83,
-          "attaches": {
-            "files": [
-              {
-                "path": "intro/back_and_forth_01.m4a",
-                "duration": 1.72
-              },
-              {
-                "path": "intro/back_and_forth_02.m4a",
-                "duration": 3.16
-              }
-            ]
-          }
-        },
-        {
-          "path": "cant_hold_back.m4a",
-          "duration": 232.45,
-          "audibleDuration": 232.12,
-          "attaches": {
-            "files": [
-              {
-                "path": "intro/cant_hold_back_01.m4a",
-                "duration": 3.76
-              },
-              {
-                "path": "intro/cant_hold_back_02.m4a",
-                "duration": 2.17
-              }
-            ]
-          }
-        },
-        {
-          "path": "cutie_pie.m4a",
-          "duration": 200.42,
-          "attaches": {
-            "files": [
-              {
-                "path": "intro/cutie_pie_01.m4a",
-                "duration": 4.22
-              },
-              {
-                "path": "intro/cutie_pie_02.m4a",
-                "duration": 4.67
-              }
-            ]
-          }
-        },
-        {
-          "path": "do_it_roger.m4a",
-          "duration": 301.98,
-          "audibleDuration": 300.92,
-          "attaches": {
-            "files": [
-              {
-                "path": "intro/do_it_roger_01.m4a",
-                "duration": 7.9
-              },
-              {
-                "path": "intro/do_it_roger_02.m4a",
-                "duration": 10.0
-              }
-            ]
-          }
-        },
-        {
-          "path": "flashback.m4a",
-          "duration": 248.73,
-          "audibleDuration": 248.08
-        },
-        {
-          "path": "flashlight.m4a",
-          "duration": 252.18,
-          "audibleDuration": 251.34
-        },
-        {
-          "path": "funkasize_you.m4a",
-          "duration": 158.46,
-          "audibleDuration": 158.12
-        },
-        {
-          "path": "give_it_to_me_baby.m4a",
-          "duration": 236.44,
-          "audibleDuration": 235.77,
-          "attaches": {
-            "files": [
-              {
-                "path": "intro/give_it_to_me_baby_01.m4a",
-                "duration": 3.14
-              },
-              {
-                "path": "intro/give_it_to_me_baby_02.m4a",
-                "duration": 5.21
-              }
-            ]
-          }
-        },
-        {
-          "path": "gotta_get_my_hands_on_some_money.m4a",
-          "duration": 238.19,
-          "attaches": {
-            "files": [
-              {
-                "path": "intro/gotta_get_my_hands_on_some_money_01.m4a",
-                "duration": 3.46
-              },
-              {
-                "path": "intro/gotta_get_my_hands_on_some_money_02.m4a",
-                "duration": 2.46
-              }
-            ]
-          }
-        },
-        {
-          "path": "haboglabotribin.m4a",
-          "duration": 224.81,
-          "audibleDuration": 224.46
-        },
-        {
-          "path": "heart_beat.m4a",
-          "duration": 227.42,
-          "audibleDuration": 227.02,
-          "attaches": {
-            "files": [
-              {
-                "path": "intro/heart_beat_01.m4a",
-                "duration": 4.06
-              },
-              {
-                "path": "intro/heart_beat_02.m4a",
-                "duration": 3.52
-              }
-            ]
-          }
-        },
-        {
-          "path": "heartbreaker.m4a",
-          "duration": 242.12
-        },
-        {
-          "path": "id_rather_be_with_you.m4a",
-          "duration": 221.89,
-          "audibleDuration": 221.33,
-          "attaches": {
-            "files": [
-              {
-                "path": "intro/id_rather_be_with_you_01.m4a",
-                "duration": 10.37
-              },
-              {
-                "path": "intro/id_rather_be_with_you_02.m4a",
-                "duration": 5.54
-              }
-            ]
-          }
-        },
-        {
-          "path": "im_in_love.m4a",
-          "duration": 250.05,
-          "audibleDuration": 249.72,
-          "attaches": {
-            "files": [
-              {
-                "path": "intro/im_in_love_01.m4a",
-                "duration": 5.77
-              },
-              {
-                "path": "intro/im_in_love_02.m4a",
-                "duration": 6.57
-              }
-            ]
-          }
-        },
-        {
-          "path": "joystick.m4a",
-          "duration": 219.06,
-          "audibleDuration": 218.47,
-          "attaches": {
-            "files": [
-              {
-                "path": "intro/joystick_01.m4a",
-                "duration": 4.92
-              },
-              {
-                "path": "intro/joystick_02.m4a",
-                "duration": 4.21
-              }
-            ]
-          }
-        },
-        {
-          "path": "mothership_connection.m4a",
-          "duration": 253.89
-        },
-        {
-          "path": "nights_feel_like.m4a",
-          "duration": 270.8,
-          "audibleDuration": 270.29
-        },
-        {
-          "path": "party_all_the_time.m4a",
-          "duration": 210.77,
-          "audibleDuration": 210.3
-        },
-        {
-          "path": "skeletons.m4a",
-          "duration": 229.31,
-          "attaches": {
-            "files": [
-              {
-                "path": "intro/skeletons_01.m4a",
-                "duration": 3.11
-              },
-              {
-                "path": "intro/skeletons_02.m4a",
-                "duration": 5.16
-              }
-            ]
-          }
-        },
-        {
-          "path": "tonight.m4a",
-          "duration": 219.01,
-          "audibleDuration": 218.64
-        },
-        {
-          "path": "walking_into_sunshine.m4a",
-          "duration": 246.09,
-          "audibleDuration": 244.9
-        },
-        {
-          "path": "youre_the_one_for_me.m4a",
-          "duration": 255.34,
-          "attaches": {
-            "files": [
-              {
-                "path": "intro/youre_the_one_for_me_01.m4a",
-                "duration": 5.36
-              },
-              {
-                "path": "intro/youre_the_one_for_me_02.m4a",
-                "duration": 4.26
-              }
-            ]
-          }
+    "info": {
+        "title": "Space 103.2",
+        "genre": "Funk and R&B",
+        "dj": "Bootsy Collins",
+        "icon": {
+            "color": "Space.svg"
         }
-      ]
     },
-    {
-      "tag": "general",
-      "files": [
-        {
-          "path": "general/general_01.m4a",
-          "duration": 11.96
-        },
-        {
-          "path": "general/general_02.m4a",
-          "duration": 7.13
-        },
-        {
-          "path": "general/general_03.m4a",
-          "duration": 13.74
-        },
-        {
-          "path": "general/general_04.m4a",
-          "duration": 11.34
-        },
-        {
-          "path": "general/general_05.m4a",
-          "duration": 12.4
-        },
-        {
-          "path": "general/general_06.m4a",
-          "duration": 10.11
-        },
-        {
-          "path": "general/general_07.m4a",
-          "duration": 11.69
-        },
-        {
-          "path": "general/general_08.m4a",
-          "duration": 11.05
-        },
-        {
-          "path": "general/general_09.m4a",
-          "duration": 12.11
-        },
-        {
-          "path": "general/general_10.m4a",
-          "duration": 8.59
-        },
-        {
-          "path": "general/general_11.m4a",
-          "duration": 8.29,
-          "audibleDuration": 7.9773
-        },
-        {
-          "path": "general/general_12.m4a",
-          "duration": 9.95
-        },
-        {
-          "path": "general/general_13.m4a",
-          "duration": 8.9
-        },
-        {
-          "path": "general/general_14.m4a",
-          "duration": 7.98
-        },
-        {
-          "path": "general/general_15.m4a",
-          "duration": 12.22,
-          "audibleDuration": 11.774
-        },
-        {
-          "path": "general/general_16.m4a",
-          "duration": 6.34
-        },
-        {
-          "path": "general/general_17.m4a",
-          "duration": 6.05
-        },
-        {
-          "path": "general/general_18.m4a",
-          "duration": 11.68
-        },
-        {
-          "path": "general/general_19.m4a",
-          "duration": 7.6,
-          "audibleDuration": 7.2733
-        },
-        {
-          "path": "general/general_20.m4a",
-          "duration": 4.4
-        },
-        {
-          "path": "general/general_21.m4a",
-          "duration": 1.65
-        },
-        {
-          "path": "general/general_22.m4a",
-          "duration": 2.81
-        },
-        {
-          "path": "general/general_23.m4a",
-          "duration": 3.69
-        },
-        {
-          "path": "general/general_24.m4a",
-          "duration": 6.17
-        },
-        {
-          "path": "general/general_25.m4a",
-          "duration": 5.69
-        },
-        {
-          "path": "general/general_26.m4a",
-          "duration": 2.02
-        },
-        {
-          "path": "general/general_27.m4a",
-          "duration": 2.39
-        }
-      ]
-    },
-    {
-      "tag": "id",
-      "files": [
-        {
-          "path": "id/id_01.m4a",
-          "duration": 12.22,
-          "audibleDuration": 11.646
-        },
-        {
-          "path": "id/id_02.m4a",
-          "duration": 9.62,
-          "audibleDuration": 9.0
-        },
-        {
-          "path": "id/id_03.m4a",
-          "duration": 11.36,
-          "audibleDuration": 11.02
-        },
-        {
-          "path": "id/id_04.m4a",
-          "duration": 10.65,
-          "audibleDuration": 10.13
-        },
-        {
-          "path": "id/id_05.m4a",
-          "duration": 11.09,
-          "audibleDuration": 10.51
-        },
-        {
-          "path": "id/id_06.m4a",
-          "duration": 11.69
-        },
-        {
-          "path": "id/id_07.m4a",
-          "duration": 11.34,
-          "audibleDuration": 10.942
-        },
-        {
-          "path": "id/id_08.m4a",
-          "duration": 14.01,
-          "audibleDuration": 13.63
-        },
-        {
-          "path": "id/id_09.m4a",
-          "duration": 13.57
-        },
-        {
-          "path": "id/id_10.m4a",
-          "duration": 13.49,
-          "audibleDuration": 13.118
-        },
-        {
-          "path": "id/id_11.m4a",
-          "duration": 9.57,
-          "audibleDuration": 9.1
-        },
-        {
-          "path": "id/id_12.m4a",
-          "duration": 8.37,
-          "audibleDuration": 7.0813
-        },
-        {
-          "path": "id/id_13.m4a",
-          "duration": 7.49,
-          "audibleDuration": 6.86
-        },
-        {
-          "path": "id/id_14.m4a",
-          "duration": 5.32,
-          "audibleDuration": 4.8413
-        }
-      ]
-    },
-    {
-      "tag": "mono_solo",
-      "files": [
-        {
-          "path": "mono_solo/mono_solo_01.m4a",
-          "duration": 33.71,
-          "audibleDuration": 32.3
-        },
-        {
-          "path": "mono_solo/mono_solo_02.m4a",
-          "duration": 25.29,
-          "audibleDuration": 24.041
-        },
-        {
-          "path": "mono_solo/mono_solo_03.m4a",
-          "duration": 32.0,
-          "audibleDuration": 30.889
-        },
-        {
-          "path": "mono_solo/mono_solo_04.m4a",
-          "duration": 32.03,
-          "audibleDuration": 31.18
-        },
-        {
-          "path": "mono_solo/mono_solo_05.m4a",
-          "duration": 19.12,
-          "audibleDuration": 17.87
-        },
-        {
-          "path": "mono_solo/mono_solo_06.m4a",
-          "duration": 18.17,
-          "audibleDuration": 17.47
-        },
-        {
-          "path": "mono_solo/mono_solo_07.m4a",
-          "duration": 24.72,
-          "audibleDuration": 23.721
-        },
-        {
-          "path": "mono_solo/mono_solo_08.m4a",
-          "duration": 32.01,
-          "audibleDuration": 30.761
-        },
-        {
-          "path": "mono_solo/mono_solo_09.m4a",
-          "duration": 23.2,
-          "audibleDuration": 22.249
-        },
-        {
-          "path": "mono_solo/mono_solo_10.m4a",
-          "duration": 28.76,
-          "audibleDuration": 27.561
-        },
-        {
-          "path": "mono_solo/mono_solo_11.m4a",
-          "duration": 29.45,
-          "audibleDuration": 28.094
-        },
-        {
-          "path": "mono_solo/mono_solo_12.m4a",
-          "duration": 36.16,
-          "audibleDuration": 34.7
-        },
-        {
-          "path": "mono_solo/mono_solo_13.m4a",
-          "duration": 32.57,
-          "audibleDuration": 31.465
-        }
-      ]
-    },
-    {
-      "tag": "time_evening",
-      "files": [
-        {
-          "path": "time_evening/evening_01.m4a",
-          "duration": 8.63
-        },
-        {
-          "path": "time_evening/evening_02.m4a",
-          "duration": 3.92
-        },
-        {
-          "path": "time_evening/evening_03.m4a",
-          "duration": 2.09
-        },
-        {
-          "path": "time_evening/evening_04.m4a",
-          "duration": 5.94
-        }
-      ]
-    },
-    {
-      "tag": "time_morning",
-      "files": [
-        {
-          "path": "time_morning/morning_01.m4a",
-          "duration": 1.78
-        },
-        {
-          "path": "time_morning/morning_02.m4a",
-          "duration": 7.33
-        },
-        {
-          "path": "time_morning/morning_03.m4a",
-          "duration": 8.86
-        },
-        {
-          "path": "time_morning/morning_04.m4a",
-          "duration": 1.67
-        }
-      ]
-    },
-    {
-      "tag": "to_adverts",
-      "files": [
-        {
-          "path": "to_ad/to_ad_01.m4a",
-          "duration": 5.27
-        },
-        {
-          "path": "to_ad/to_ad_02.m4a",
-          "duration": 3.95
-        },
-        {
-          "path": "to_ad/to_ad_03.m4a",
-          "duration": 6.08
-        },
-        {
-          "path": "to_ad/to_ad_04.m4a",
-          "duration": 1.92
-        },
-        {
-          "path": "to_ad/to_ad_05.m4a",
-          "duration": 4.05
-        }
-      ]
-    },
-    {
-      "tag": "to_news",
-      "files": [
-        {
-          "path": "to_news/to_news_01.m4a",
-          "duration": 3.54
-        },
-        {
-          "path": "to_news/to_news_02.m4a",
-          "duration": 2.93
-        },
-        {
-          "path": "to_news/to_news_03.m4a",
-          "duration": 7.1
-        },
-        {
-          "path": "to_news/to_news_04.m4a",
-          "duration": 3.57
-        },
-        {
-          "path": "to_news/to_news_05.m4a",
-          "duration": 7.03
-        }
-      ]
-    }
-  ],
-  "playlist": {
-    "firstFragment": {
-      "fragmentTag": "id"
-    },
-    "fragments": [
-      {
-        "tag": "id",
-        "src": {
-          "type": "group",
-          "groupTag": "id"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "track"
-          }
-        ]
-      },
-      {
-        "tag": "track",
-        "src": {
-          "type": "group",
-          "groupTag": "track"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "adverts",
-            "probability": 0.357
-          },
-          {
-            "fragmentTag": "monoSolo",
-            "probability": 0.286
-          },
-          {
-            "fragmentTag": "news",
-            "probability": 0.143
-          },
-          {
-            "fragmentTag": "track"
-          }
+    "fileGroups": {
+        "track": [
+            {
+                "path": "back_and_forth.m4a",
+                "duration": 217.64,
+                "audibleDuration": 216.83,
+                "voiceovers": [
+                    {
+                        "path": "intro/back_and_forth_01.m4a",
+                        "duration": 1.72
+                    },
+                    {
+                        "path": "intro/back_and_forth_02.m4a",
+                        "duration": 3.16
+                    }
+                ]
+            },
+            {
+                "path": "cant_hold_back.m4a",
+                "duration": 232.45,
+                "audibleDuration": 232.12,
+                "voiceovers": [
+                    {
+                        "path": "intro/cant_hold_back_01.m4a",
+                        "duration": 3.76
+                    },
+                    {
+                        "path": "intro/cant_hold_back_02.m4a",
+                        "duration": 2.17
+                    }
+                ]
+            },
+            {
+                "path": "cutie_pie.m4a",
+                "duration": 200.42,
+                "voiceovers": [
+                    {
+                        "path": "intro/cutie_pie_01.m4a",
+                        "duration": 4.22
+                    },
+                    {
+                        "path": "intro/cutie_pie_02.m4a",
+                        "duration": 4.67
+                    }
+                ]
+            },
+            {
+                "path": "do_it_roger.m4a",
+                "duration": 301.98,
+                "audibleDuration": 300.92,
+                "voiceovers": [
+                    {
+                        "path": "intro/do_it_roger_01.m4a",
+                        "duration": 7.9
+                    },
+                    {
+                        "path": "intro/do_it_roger_02.m4a",
+                        "duration": 10.0
+                    }
+                ]
+            },
+            {
+                "path": "flashback.m4a",
+                "duration": 248.73,
+                "audibleDuration": 248.08
+            },
+            {
+                "path": "flashlight.m4a",
+                "duration": 252.18,
+                "audibleDuration": 251.34
+            },
+            {
+                "path": "funkasize_you.m4a",
+                "duration": 158.46,
+                "audibleDuration": 158.12
+            },
+            {
+                "path": "give_it_to_me_baby.m4a",
+                "duration": 236.44,
+                "audibleDuration": 235.77,
+                "voiceovers": [
+                    {
+                        "path": "intro/give_it_to_me_baby_01.m4a",
+                        "duration": 3.14
+                    },
+                    {
+                        "path": "intro/give_it_to_me_baby_02.m4a",
+                        "duration": 5.21
+                    }
+                ]
+            },
+            {
+                "path": "gotta_get_my_hands_on_some_money.m4a",
+                "duration": 238.19,
+                "voiceovers": [
+                    {
+                        "path": "intro/gotta_get_my_hands_on_some_money_01.m4a",
+                        "duration": 3.46
+                    },
+                    {
+                        "path": "intro/gotta_get_my_hands_on_some_money_02.m4a",
+                        "duration": 2.46
+                    }
+                ]
+            },
+            {
+                "path": "haboglabotribin.m4a",
+                "duration": 224.81,
+                "audibleDuration": 224.46
+            },
+            {
+                "path": "heart_beat.m4a",
+                "duration": 227.42,
+                "audibleDuration": 227.02,
+                "voiceovers": [
+                    {
+                        "path": "intro/heart_beat_01.m4a",
+                        "duration": 4.06
+                    },
+                    {
+                        "path": "intro/heart_beat_02.m4a",
+                        "duration": 3.52
+                    }
+                ]
+            },
+            {
+                "path": "heartbreaker.m4a",
+                "duration": 242.12
+            },
+            {
+                "path": "id_rather_be_with_you.m4a",
+                "duration": 221.89,
+                "audibleDuration": 221.33,
+                "voiceovers": [
+                    {
+                        "path": "intro/id_rather_be_with_you_01.m4a",
+                        "duration": 10.37
+                    },
+                    {
+                        "path": "intro/id_rather_be_with_you_02.m4a",
+                        "duration": 5.54
+                    }
+                ]
+            },
+            {
+                "path": "im_in_love.m4a",
+                "duration": 250.05,
+                "audibleDuration": 249.72,
+                "voiceovers": [
+                    {
+                        "path": "intro/im_in_love_01.m4a",
+                        "duration": 5.77
+                    },
+                    {
+                        "path": "intro/im_in_love_02.m4a",
+                        "duration": 6.57
+                    }
+                ]
+            },
+            {
+                "path": "joystick.m4a",
+                "duration": 219.06,
+                "audibleDuration": 218.47,
+                "voiceovers": [
+                    {
+                        "path": "intro/joystick_01.m4a",
+                        "duration": 4.92
+                    },
+                    {
+                        "path": "intro/joystick_02.m4a",
+                        "duration": 4.21
+                    }
+                ]
+            },
+            {
+                "path": "mothership_connection.m4a",
+                "duration": 253.89
+            },
+            {
+                "path": "nights_feel_like.m4a",
+                "duration": 270.8,
+                "audibleDuration": 270.29
+            },
+            {
+                "path": "party_all_the_time.m4a",
+                "duration": 210.77,
+                "audibleDuration": 210.3
+            },
+            {
+                "path": "skeletons.m4a",
+                "duration": 229.31,
+                "voiceovers": [
+                    {
+                        "path": "intro/skeletons_01.m4a",
+                        "duration": 3.11
+                    },
+                    {
+                        "path": "intro/skeletons_02.m4a",
+                        "duration": 5.16
+                    }
+                ]
+            },
+            {
+                "path": "tonight.m4a",
+                "duration": 219.01,
+                "audibleDuration": 218.64
+            },
+            {
+                "path": "walking_into_sunshine.m4a",
+                "duration": 246.09,
+                "audibleDuration": 244.9
+            },
+            {
+                "path": "youre_the_one_for_me.m4a",
+                "duration": 255.34,
+                "voiceovers": [
+                    {
+                        "path": "intro/youre_the_one_for_me_01.m4a",
+                        "duration": 5.36
+                    },
+                    {
+                        "path": "intro/youre_the_one_for_me_02.m4a",
+                        "duration": 4.26
+                    }
+                ]
+            }
         ],
-        "mixins": {
-          "pos": [
+        "general": [
             {
-              "tag": "begin",
-              "relativeOffset": 0.03
+                "path": "general/general_01.m4a",
+                "duration": 11.96
             },
             {
-              "tag": "end",
-              "relativeOffset": 0.97
+                "path": "general/general_02.m4a",
+                "duration": 7.13
+            },
+            {
+                "path": "general/general_03.m4a",
+                "duration": 13.74
+            },
+            {
+                "path": "general/general_04.m4a",
+                "duration": 11.34
+            },
+            {
+                "path": "general/general_05.m4a",
+                "duration": 12.4
+            },
+            {
+                "path": "general/general_06.m4a",
+                "duration": 10.11
+            },
+            {
+                "path": "general/general_07.m4a",
+                "duration": 11.69
+            },
+            {
+                "path": "general/general_08.m4a",
+                "duration": 11.05
+            },
+            {
+                "path": "general/general_09.m4a",
+                "duration": 12.11
+            },
+            {
+                "path": "general/general_10.m4a",
+                "duration": 8.59
+            },
+            {
+                "path": "general/general_11.m4a",
+                "duration": 8.29,
+                "audibleDuration": 7.9773
+            },
+            {
+                "path": "general/general_12.m4a",
+                "duration": 9.95
+            },
+            {
+                "path": "general/general_13.m4a",
+                "duration": 8.9
+            },
+            {
+                "path": "general/general_14.m4a",
+                "duration": 7.98
+            },
+            {
+                "path": "general/general_15.m4a",
+                "duration": 12.22,
+                "audibleDuration": 11.774
+            },
+            {
+                "path": "general/general_16.m4a",
+                "duration": 6.34
+            },
+            {
+                "path": "general/general_17.m4a",
+                "duration": 6.05
+            },
+            {
+                "path": "general/general_18.m4a",
+                "duration": 11.68
+            },
+            {
+                "path": "general/general_19.m4a",
+                "duration": 7.6,
+                "audibleDuration": 7.2733
+            },
+            {
+                "path": "general/general_20.m4a",
+                "duration": 4.4
+            },
+            {
+                "path": "general/general_21.m4a",
+                "duration": 1.65
+            },
+            {
+                "path": "general/general_22.m4a",
+                "duration": 2.81
+            },
+            {
+                "path": "general/general_23.m4a",
+                "duration": 3.69
+            },
+            {
+                "path": "general/general_24.m4a",
+                "duration": 6.17
+            },
+            {
+                "path": "general/general_25.m4a",
+                "duration": 5.69
+            },
+            {
+                "path": "general/general_26.m4a",
+                "duration": 2.02
+            },
+            {
+                "path": "general/general_27.m4a",
+                "duration": 2.39
             }
-          ],
-          "mix": [
+        ],
+        "id": [
             {
-              "tag": "toNews",
-              "src": {
-                "type": "group",
-                "groupTag": "to_news"
-              },
-              "condition": {
-                "type": "nextFragment",
-                "fragmentTag": "news"
-              },
-              "posVariant": [
-                {
-                  "posTag": "end"
-                }
-              ]
+                "path": "id/id_01.m4a",
+                "duration": 12.22,
+                "audibleDuration": 11.646
             },
             {
-              "tag": "toAdverts",
-              "src": {
-                "type": "group",
-                "groupTag": "to_adverts"
-              },
-              "condition": {
-                "type": "nextFragment",
-                "fragmentTag": "adverts"
-              },
-              "posVariant": [
-                {
-                  "posTag": "end"
-                }
-              ]
+                "path": "id/id_02.m4a",
+                "duration": 9.62,
+                "audibleDuration": 9.0
             },
             {
-              "tag": "general",
-              "src": {
-                "type": "group",
-                "groupTag": "general"
-              },
-              "condition": {
-                "type": "random",
-                "probability": 0.333
-              },
-              "posVariant": [
-                {
-                  "posTag": "end"
-                },
-                {
-                  "posTag": "begin"
-                }
-              ]
+                "path": "id/id_03.m4a",
+                "duration": 11.36,
+                "audibleDuration": 11.02
             },
             {
-              "tag": "intro",
-              "src": {
-                "type": "attach"
-              },
-              "condition": {
-                "type": "random",
-                "probability": 0.333
-              },
-              "posVariant": [
-                {
-                  "posTag": "begin"
-                },
-                {
-                  "posTag": "end"
-                }
-              ]
+                "path": "id/id_04.m4a",
+                "duration": 10.65,
+                "audibleDuration": 10.13
             },
             {
-              "tag": "morning",
-              "src": {
-                "type": "group",
-                "groupTag": "time_morning"
-              },
-              "condition": {
-                "type": "groupAnd",
-                "condition": [
-                  {
-                    "type": "random",
-                    "probability": 0.333
-                  },
-                  {
-                    "type": "timeInterval",
-                    "from": "5:00",
-                    "to": "11:00"
-                  }
-                ]
-              },
-              "posVariant": [
-                {
-                  "posTag": "end"
-                },
-                {
-                  "posTag": "begin"
-                }
-              ]
+                "path": "id/id_05.m4a",
+                "duration": 11.09,
+                "audibleDuration": 10.51
             },
             {
-              "tag": "evening",
-              "src": {
-                "type": "group",
-                "groupTag": "time_evening"
-              },
-              "condition": {
-                "type": "groupAnd",
-                "condition": [
-                  {
-                    "type": "random",
-                    "probability": 0.333
-                  },
-                  {
-                    "type": "timeInterval",
-                    "from": "18:00",
-                    "to": "24:00"
-                  }
-                ]
-              },
-              "posVariant": [
-                {
-                  "posTag": "end"
-                },
-                {
-                  "posTag": "begin"
-                }
-              ]
+                "path": "id/id_06.m4a",
+                "duration": 11.69
+            },
+            {
+                "path": "id/id_07.m4a",
+                "duration": 11.34,
+                "audibleDuration": 10.942
+            },
+            {
+                "path": "id/id_08.m4a",
+                "duration": 14.01,
+                "audibleDuration": 13.63
+            },
+            {
+                "path": "id/id_09.m4a",
+                "duration": 13.57
+            },
+            {
+                "path": "id/id_10.m4a",
+                "duration": 13.49,
+                "audibleDuration": 13.118
+            },
+            {
+                "path": "id/id_11.m4a",
+                "duration": 9.57,
+                "audibleDuration": 9.1
+            },
+            {
+                "path": "id/id_12.m4a",
+                "duration": 8.37,
+                "audibleDuration": 7.0813
+            },
+            {
+                "path": "id/id_13.m4a",
+                "duration": 7.49,
+                "audibleDuration": 6.86
+            },
+            {
+                "path": "id/id_14.m4a",
+                "duration": 5.32,
+                "audibleDuration": 4.8413
             }
-          ]
-        }
-      },
-      {
-        "tag": "monoSolo",
-        "src": {
-          "type": "group",
-          "groupTag": "mono_solo"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "news",
-            "probability": 0.4
-          },
-          {
-            "fragmentTag": "track"
-          }
+        ],
+        "mono_solo": [
+            {
+                "path": "mono_solo/mono_solo_01.m4a",
+                "duration": 33.71,
+                "audibleDuration": 32.3
+            },
+            {
+                "path": "mono_solo/mono_solo_02.m4a",
+                "duration": 25.29,
+                "audibleDuration": 24.041
+            },
+            {
+                "path": "mono_solo/mono_solo_03.m4a",
+                "duration": 32.0,
+                "audibleDuration": 30.889
+            },
+            {
+                "path": "mono_solo/mono_solo_04.m4a",
+                "duration": 32.03,
+                "audibleDuration": 31.18
+            },
+            {
+                "path": "mono_solo/mono_solo_05.m4a",
+                "duration": 19.12,
+                "audibleDuration": 17.87
+            },
+            {
+                "path": "mono_solo/mono_solo_06.m4a",
+                "duration": 18.17,
+                "audibleDuration": 17.47
+            },
+            {
+                "path": "mono_solo/mono_solo_07.m4a",
+                "duration": 24.72,
+                "audibleDuration": 23.721
+            },
+            {
+                "path": "mono_solo/mono_solo_08.m4a",
+                "duration": 32.01,
+                "audibleDuration": 30.761
+            },
+            {
+                "path": "mono_solo/mono_solo_09.m4a",
+                "duration": 23.2,
+                "audibleDuration": 22.249
+            },
+            {
+                "path": "mono_solo/mono_solo_10.m4a",
+                "duration": 28.76,
+                "audibleDuration": 27.561
+            },
+            {
+                "path": "mono_solo/mono_solo_11.m4a",
+                "duration": 29.45,
+                "audibleDuration": 28.094
+            },
+            {
+                "path": "mono_solo/mono_solo_12.m4a",
+                "duration": 36.16,
+                "audibleDuration": 34.7
+            },
+            {
+                "path": "mono_solo/mono_solo_13.m4a",
+                "duration": 32.57,
+                "audibleDuration": 31.465
+            }
+        ],
+        "time_evening": [
+            {
+                "path": "time_evening/evening_01.m4a",
+                "duration": 8.63
+            },
+            {
+                "path": "time_evening/evening_02.m4a",
+                "duration": 3.92
+            },
+            {
+                "path": "time_evening/evening_03.m4a",
+                "duration": 2.09
+            },
+            {
+                "path": "time_evening/evening_04.m4a",
+                "duration": 5.94
+            }
+        ],
+        "time_morning": [
+            {
+                "path": "time_morning/morning_01.m4a",
+                "duration": 1.78
+            },
+            {
+                "path": "time_morning/morning_02.m4a",
+                "duration": 7.33
+            },
+            {
+                "path": "time_morning/morning_03.m4a",
+                "duration": 8.86
+            },
+            {
+                "path": "time_morning/morning_04.m4a",
+                "duration": 1.67
+            }
+        ],
+        "to_adverts": [
+            {
+                "path": "to_ad/to_ad_01.m4a",
+                "duration": 5.27
+            },
+            {
+                "path": "to_ad/to_ad_02.m4a",
+                "duration": 3.95
+            },
+            {
+                "path": "to_ad/to_ad_03.m4a",
+                "duration": 6.08
+            },
+            {
+                "path": "to_ad/to_ad_04.m4a",
+                "duration": 1.92
+            },
+            {
+                "path": "to_ad/to_ad_05.m4a",
+                "duration": 4.05
+            }
+        ],
+        "to_news": [
+            {
+                "path": "to_news/to_news_01.m4a",
+                "duration": 3.54
+            },
+            {
+                "path": "to_news/to_news_02.m4a",
+                "duration": 2.93
+            },
+            {
+                "path": "to_news/to_news_03.m4a",
+                "duration": 7.1
+            },
+            {
+                "path": "to_news/to_news_04.m4a",
+                "duration": 3.57
+            },
+            {
+                "path": "to_news/to_news_05.m4a",
+                "duration": 7.03
+            }
         ]
-      },
-      {
-        "tag": "news",
-        "src": {
-          "type": "group",
-          "groupTag": "news"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "id",
-            "probability": 0.667
-          },
-          {
-            "fragmentTag": "track"
-          }
-        ]
-      },
-      {
-        "tag": "adverts",
-        "src": {
-          "type": "group",
-          "groupTag": "adverts"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "track"
-          }
-        ]
-      }
-    ]
-  }
+    }
 }

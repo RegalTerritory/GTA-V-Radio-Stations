@@ -1,41 +1,20 @@
 {
-  "tag": "radio_08_mexican",
-  "info": {
-    "title": "East Los FM",
-    "genre": "Mexican music and Latin music",
-    "logo": "East_Los_FM.svg",
-    "dj": "DJ Camilo and Don Cheto"
-  },
-  "fileGroups": [
-    {
-      "tag": "track",
-      "files": [
-        {
-          "tag": "p1",
-          "path": "mex_final_mix_32.m4a",
-          "duration": 2465.17
+    "type": "static",
+    "info": {
+        "title": "East Los FM",
+        "genre": "Mexican music and Latin music",
+        "dj": "DJ Camilo and Don Cheto",
+        "icon": {
+            "color": "East_Los_FM.svg"
         }
-      ]
-    }
-  ],
-  "playlist": {
-    "firstFragment": {
-      "fragmentTag": "track"
     },
-    "fragments": [
-      {
-        "tag": "track",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p1"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "track"
-          }
+    "fileGroups": {
+        "track": [
+            {
+                "tag": "p1",
+                "path": "mex_final_mix_32.m4a",
+                "duration": 2465.17
+            }
         ]
-      }
-    ]
-  }
+    }
 }

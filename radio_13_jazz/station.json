@@ -1,98 +1,38 @@
 {
-  "tag": "radio_13_jazz",
-  "info": {
-    "title": "WorldWide FM",
-    "genre": "Lounge, chillwave, jazz-funk and world",
-    "logo": "Worldwide_FM.svg",
-    "dj": "Gilles Peterson"
-  },
-  "fileGroups": [
-    {
-      "tag": "track",
-      "files": [
-        {
-          "tag": "p1",
-          "path": "wwfm_p1.m4a",
-          "duration": 1600.62,
-          "audibleDuration": 1599.8
-        },
-        {
-          "tag": "p2",
-          "path": "wwfm_p2.m4a",
-          "duration": 1484.93,
-          "audibleDuration": 1484.1
-        },
-        {
-          "tag": "p3",
-          "path": "wwfm_p3.m4a",
-          "duration": 2137.51
-        },
-        {
-          "tag": "p4",
-          "path": "wwfm_p4.m4a",
-          "duration": 2009.96,
-          "audibleDuration": 2008.9
+    "type": "static",
+    "info": {
+        "title": "WorldWide FM",
+        "genre": "Lounge, chillwave, jazz-funk and world",
+        "dj": "Gilles Peterson",
+        "icon": {
+            "color": "Worldwide_FM.svg"
         }
-      ]
-    }
-  ],
-  "playlist": {
-    "firstFragment": {
-      "fragmentTag": "part1"
     },
-    "fragments": [
-      {
-        "tag": "part1",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p1"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "part2"
-          }
+    "fileGroups": {
+        "track": [
+            {
+                "tag": "p1",
+                "path": "wwfm_p1.m4a",
+                "duration": 1600.62,
+                "audibleDuration": 1599.8
+            },
+            {
+                "tag": "p2",
+                "path": "wwfm_p2.m4a",
+                "duration": 1484.93,
+                "audibleDuration": 1484.1
+            },
+            {
+                "tag": "p3",
+                "path": "wwfm_p3.m4a",
+                "duration": 2137.51
+            },
+            {
+                "tag": "p4",
+                "path": "wwfm_p4.m4a",
+                "duration": 2009.96,
+                "audibleDuration": 2008.9
+            }
         ]
-      },
-      {
-        "tag": "part2",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p2"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "part3"
-          }
-        ]
-      },
-      {
-        "tag": "part3",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p3"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "part4"
-          }
-        ]
-      },
-      {
-        "tag": "part4",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p4"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "part1"
-          }
-        ]
-      }
-    ]
-  }
+    }
 }

@@ -1,59 +1,25 @@
 {
-  "tag": "radio_14_dance_02",
-  "info": {
-    "title": "FlyLo FM",
-    "genre": "IDM and Midwest hip hop",
-    "logo": "FlyLo_FM.svg",
-    "dj": "Flying Lotus"
-  },
-  "fileGroups": [
-    {
-      "tag": "track",
-      "files": [
-        {
-          "tag": "p1",
-          "path": "flylo_part1.m4a",
-          "duration": 2607.22
-        },
-        {
-          "tag": "p2",
-          "path": "flylo_part2.m4a",
-          "duration": 1691.16
+    "type": "static",
+    "info": {
+        "title": "FlyLo FM",
+        "genre": "IDM and Midwest hip hop",
+        "dj": "Flying Lotus",
+        "icon": {
+            "color": "FlyLo_FM.svg"
         }
-      ]
-    }
-  ],
-  "playlist": {
-    "firstFragment": {
-      "fragmentTag": "part1"
     },
-    "fragments": [
-      {
-        "tag": "part1",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p1"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "part2"
-          }
+    "fileGroups": {
+        "track": [
+            {
+                "tag": "p1",
+                "path": "flylo_part1.m4a",
+                "duration": 2607.22
+            },
+            {
+                "tag": "p2",
+                "path": "flylo_part2.m4a",
+                "duration": 1691.16
+            }
         ]
-      },
-      {
-        "tag": "part2",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p2"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "part1"
-          }
-        ]
-      }
-    ]
-  }
+    }
 }

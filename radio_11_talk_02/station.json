@@ -1,204 +1,93 @@
 {
-  "tag": "radio_11_talk_02",
-  "info": {
-    "title": "Blaine County Talk Radio",
-    "genre": "Public Talk Radio",
-    "logo": "Blaine_County_Talk_Radio.svg"
-  },
-  "fileGroups": [
-    {
-      "tag": "track",
-      "files": [
-        {
-          "tag": "p1",
-          "path": "mono_bcr_community_hour.m4a",
-          "duration": 1196.49,
-          "audibleDuration": 1195.0
-        },
-        {
-          "tag": "p2",
-          "path": "mono_beyond_insemination_part_1.m4a",
-          "duration": 871.27,
-          "audibleDuration": 870.69
-        },
-        {
-          "tag": "p3",
-          "path": "mono_beyond_insemination_part_2.m4a",
-          "duration": 918.45,
-          "audibleDuration": 917.4
-        },
-        {
-          "tag": "p4",
-          "path": "mono_bless_your_heart.m4a",
-          "duration": 1748.08,
-          "audibleDuration": 1747.7
+    "type": "talkshow",
+    "info": {
+        "title": "Blaine County Talk Radio",
+        "genre": "Public Talk Radio",
+        "icon": {
+            "color": "Blaine_County_Talk_Radio.svg"
         }
-      ]
     },
-    {
-      "tag": "id",
-      "files": [
-        {
-          "path": "id/id_01.m4a",
-          "duration": 12.59,
-          "audibleDuration": 12.11
-        },
-        {
-          "path": "id/id_02.m4a",
-          "duration": 14.35,
-          "audibleDuration": 13.737
-        },
-        {
-          "path": "id/id_03.m4a",
-          "duration": 29.95,
-          "audibleDuration": 29.502
-        },
-        {
-          "path": "id/id_04.m4a",
-          "duration": 11.36
-        },
-        {
-          "path": "id/id_05.m4a",
-          "duration": 8.21,
-          "audibleDuration": 7.5933
-        },
-        {
-          "path": "id/id_06.m4a",
-          "duration": 13.16,
-          "audibleDuration": 12.3
-        },
-        {
-          "path": "id/id_07.m4a",
-          "duration": 14.09,
-          "audibleDuration": 13.289
-        },
-        {
-          "path": "id/id_08.m4a",
-          "duration": 11.17
-        },
-        {
-          "path": "id/id_09.m4a",
-          "duration": 15.9,
-          "audibleDuration": 15.25
-        },
-        {
-          "path": "id/id_10.m4a",
-          "duration": 18.93,
-          "audibleDuration": 18.046
-        },
-        {
-          "path": "id/id_11.m4a",
-          "duration": 11.55,
-          "audibleDuration": 10.96
-        }
-      ]
+    "fileGroups": {
+        "track": [
+            {
+                "tag": "p1",
+                "path": "mono_bcr_community_hour.m4a",
+                "duration": 1196.49,
+                "audibleDuration": 1195.0
+            },
+            {
+                "tag": "p2",
+                "path": "mono_beyond_insemination_part_1.m4a",
+                "duration": 871.27,
+                "audibleDuration": 870.69
+            },
+            {
+                "tag": "p3",
+                "path": "mono_beyond_insemination_part_2.m4a",
+                "duration": 918.45,
+                "audibleDuration": 917.4
+            },
+            {
+                "tag": "p4",
+                "path": "mono_bless_your_heart.m4a",
+                "duration": 1748.08,
+                "audibleDuration": 1747.7
+            }
+        ],
+        "id": [
+            {
+                "path": "id/id_01.m4a",
+                "duration": 12.59,
+                "audibleDuration": 12.11
+            },
+            {
+                "path": "id/id_02.m4a",
+                "duration": 14.35,
+                "audibleDuration": 13.737
+            },
+            {
+                "path": "id/id_03.m4a",
+                "duration": 29.95,
+                "audibleDuration": 29.502
+            },
+            {
+                "path": "id/id_04.m4a",
+                "duration": 11.36
+            },
+            {
+                "path": "id/id_05.m4a",
+                "duration": 8.21,
+                "audibleDuration": 7.5933
+            },
+            {
+                "path": "id/id_06.m4a",
+                "duration": 13.16,
+                "audibleDuration": 12.3
+            },
+            {
+                "path": "id/id_07.m4a",
+                "duration": 14.09,
+                "audibleDuration": 13.289
+            },
+            {
+                "path": "id/id_08.m4a",
+                "duration": 11.17
+            },
+            {
+                "path": "id/id_09.m4a",
+                "duration": 15.9,
+                "audibleDuration": 15.25
+            },
+            {
+                "path": "id/id_10.m4a",
+                "duration": 18.93,
+                "audibleDuration": 18.046
+            },
+            {
+                "path": "id/id_11.m4a",
+                "duration": 11.55,
+                "audibleDuration": 10.96
+            }
+        ]
     }
-  ],
-  "playlist": {
-    "firstFragment": {
-      "fragmentTag": "id1"
-    },
-    "fragments": [
-      {
-        "tag": "id1",
-        "src": {
-          "type": "group",
-          "groupTag": "id"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "part1"
-          }
-        ]
-      },
-      {
-        "tag": "part1",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p1"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "id2"
-          }
-        ]
-      },
-      {
-        "tag": "id2",
-        "src": {
-          "type": "group",
-          "groupTag": "id"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "part2"
-          }
-        ]
-      },
-      {
-        "tag": "part2",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p2"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "id3"
-          }
-        ]
-      },
-      {
-        "tag": "id3",
-        "src": {
-          "type": "group",
-          "groupTag": "id"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "part3"
-          }
-        ]
-      },
-      {
-        "tag": "part3",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p3"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "id4"
-          }
-        ]
-      },
-      {
-        "tag": "id4",
-        "src": {
-          "type": "group",
-          "groupTag": "id"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "part4"
-          }
-        ]
-      },
-      {
-        "tag": "part4",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p4"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "id1"
-          }
-        ]
-      }
-    ]
-  }
 }

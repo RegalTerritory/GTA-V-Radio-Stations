@@ -1,203 +1,92 @@
 {
-  "tag": "radio_05_talk_01",
-  "info": {
-    "title": "WCTR: West Coast Talk Radio",
-    "genre": "Public Talk Radio",
-    "logo": "WCTR.svg"
-  },
-  "fileGroups": [
-    {
-      "tag": "track",
-      "files": [
-        {
-          "tag": "p1",
-          "path": "mono_chakra_attack_part_1.m4a",
-          "duration": 1818.17,
-          "audibleDuration": 1817.7
-        },
-        {
-          "tag": "p2",
-          "path": "mono_chakra_attack_part_2.m4a",
-          "duration": 1326.78
-        },
-        {
-          "tag": "p3",
-          "path": "mono_chattersphere.m4a",
-          "duration": 1330.16,
-          "audibleDuration": 1329.3
-        },
-        {
-          "tag": "p4",
-          "path": "mono_fernando_show_1.m4a",
-          "duration": 1069.55,
-          "audibleDuration": 1069.0
+    "type": "talkshow",
+    "info": {
+        "title": "WCTR: West Coast Talk Radio",
+        "genre": "Public Talk Radio",
+        "icon": {
+            "color": "WCTR.svg"
         }
-      ]
     },
-    {
-      "tag": "id",
-      "files": [
-        {
-          "path": "id/id_01.m4a",
-          "duration": 7.4,
-          "audibleDuration": 6.4626
-        },
-        {
-          "path": "id/id_02.m4a",
-          "duration": 6.42,
-          "audibleDuration": 5.9
-        },
-        {
-          "path": "id/id_03.m4a",
-          "duration": 6.19,
-          "audibleDuration": 5.4813
-        },
-        {
-          "path": "id/id_04.m4a",
-          "duration": 7.28,
-          "audibleDuration": 6.48
-        },
-        {
-          "path": "id/id_05.m4a",
-          "duration": 9.42,
-          "audibleDuration": 8.7453
-        },
-        {
-          "path": "id/id_06.m4a",
-          "duration": 9.88,
-          "audibleDuration": 9.04
-        },
-        {
-          "path": "id/id_07.m4a",
-          "duration": 7.71,
-          "audibleDuration": 7.0813
-        },
-        {
-          "path": "id/id_08.m4a",
-          "duration": 5.54,
-          "audibleDuration": 5.1
-        },
-        {
-          "path": "id/id_09.m4a",
-          "duration": 8.28,
-          "audibleDuration": 7.2946
-        },
-        {
-          "path": "id/id_10.m4a",
-          "duration": 5.41
-        },
-        {
-          "path": "id/id_11.m4a",
-          "duration": 3.58
-        }
-      ]
+    "fileGroups": {
+        "track": [
+            {
+                "tag": "p1",
+                "path": "mono_chakra_attack_part_1.m4a",
+                "duration": 1818.17,
+                "audibleDuration": 1817.7
+            },
+            {
+                "tag": "p2",
+                "path": "mono_chakra_attack_part_2.m4a",
+                "duration": 1326.78
+            },
+            {
+                "tag": "p3",
+                "path": "mono_chattersphere.m4a",
+                "duration": 1330.16,
+                "audibleDuration": 1329.3
+            },
+            {
+                "tag": "p4",
+                "path": "mono_fernando_show_1.m4a",
+                "duration": 1069.55,
+                "audibleDuration": 1069.0
+            }
+        ],
+        "id": [
+            {
+                "path": "id/id_01.m4a",
+                "duration": 7.4,
+                "audibleDuration": 6.4626
+            },
+            {
+                "path": "id/id_02.m4a",
+                "duration": 6.42,
+                "audibleDuration": 5.9
+            },
+            {
+                "path": "id/id_03.m4a",
+                "duration": 6.19,
+                "audibleDuration": 5.4813
+            },
+            {
+                "path": "id/id_04.m4a",
+                "duration": 7.28,
+                "audibleDuration": 6.48
+            },
+            {
+                "path": "id/id_05.m4a",
+                "duration": 9.42,
+                "audibleDuration": 8.7453
+            },
+            {
+                "path": "id/id_06.m4a",
+                "duration": 9.88,
+                "audibleDuration": 9.04
+            },
+            {
+                "path": "id/id_07.m4a",
+                "duration": 7.71,
+                "audibleDuration": 7.0813
+            },
+            {
+                "path": "id/id_08.m4a",
+                "duration": 5.54,
+                "audibleDuration": 5.1
+            },
+            {
+                "path": "id/id_09.m4a",
+                "duration": 8.28,
+                "audibleDuration": 7.2946
+            },
+            {
+                "path": "id/id_10.m4a",
+                "duration": 5.41
+            },
+            {
+                "path": "id/id_11.m4a",
+                "duration": 3.58
+            }
+        ]
     }
-  ],
-  "playlist": {
-    "firstFragment": {
-      "fragmentTag": "id1"
-    },
-    "fragments": [
-      {
-        "tag": "id1",
-        "src": {
-          "type": "group",
-          "groupTag": "id"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "part1"
-          }
-        ]
-      },
-      {
-        "tag": "part1",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p1"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "id2"
-          }
-        ]
-      },
-      {
-        "tag": "id2",
-        "src": {
-          "type": "group",
-          "groupTag": "id"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "part2"
-          }
-        ]
-      },
-      {
-        "tag": "part2",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p2"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "id3"
-          }
-        ]
-      },
-      {
-        "tag": "id3",
-        "src": {
-          "type": "group",
-          "groupTag": "id"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "part3"
-          }
-        ]
-      },
-      {
-        "tag": "part3",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p3"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "id4"
-          }
-        ]
-      },
-      {
-        "tag": "id4",
-        "src": {
-          "type": "group",
-          "groupTag": "id"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "part4"
-          }
-        ]
-      },
-      {
-        "tag": "part4",
-        "src": {
-          "type": "file",
-          "groupTag": "track",
-          "fileTag": "p4"
-        },
-        "nextFragment": [
-          {
-            "fragmentTag": "id1"
-          }
-        ]
-      }
-    ]
-  }
 }
