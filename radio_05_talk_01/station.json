@@ -4,7 +4,9 @@
         "title": "WCTR: West Coast Talk Radio",
         "genre": "Public Talk Radio",
         "icon": {
-            "color": "WCTR.svg"
+            "color": "WCTR.svg",
+            "full": "WCTR_full.svg",
+            "cover": "WCTR_full_cover.png"
         }
     },
     "fileGroups": {

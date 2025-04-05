@@ -4,7 +4,9 @@
         "genre": "Pop music, electronic dance music, electro house",
         "dj": "Cara Delevingne",
         "icon": {
-            "color": "Non_Stop_Pop.svg"
+            "color": "Non_Stop_Pop.svg",
+            "full": "Non_Stop_Pop_full.svg",
+            "cover": "Non_Stop_Pop_full_cover.png"
         }
     },
     "fileGroups": {

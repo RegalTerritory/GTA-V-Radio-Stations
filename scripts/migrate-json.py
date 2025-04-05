@@ -1,5 +1,5 @@
 import json
-from pathlib import Path
+from utils import process_all_stations
 
 def migrate_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -26,11 +26,4 @@ def migrate_json(file_path):
     with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
 
-def process_all_stations(root_dir):
-    for station_file in root_dir.rglob("station.json"):
-        migrate_json(station_file)
-        print(f"Processed: {station_file}")
-    print("Batch processing complete.")
-
-script_dir = Path(__file__).resolve().parent
-process_all_stations(script_dir.parents[1])
+process_all_stations(migrate_json)

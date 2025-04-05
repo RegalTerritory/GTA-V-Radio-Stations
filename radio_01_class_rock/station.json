@@ -4,7 +4,8 @@
         "genre": "Classic rock, soft rock, pop rock",
         "dj": "Kenny Loggins",
         "icon": {
-            "color": "Los_Santos_Rock_Radio.svg"
+            "color": "Los_Santos_Rock_Radio.svg",
+            "cover": "Los_Santos_Rock_Radio_cover.png"
         }
     },
     "fileGroups": {

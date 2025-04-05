@@ -4,7 +4,8 @@
         "genre": "Indie pop, synthpop, indietronica and chillwave",
         "dj": "Twin Shadow",
         "icon": {
-            "color": "Radio_Mirror_Park.svg"
+            "color": "Radio_Mirror_Park.svg",
+            "cover": "Radio_Mirror_Park_cover.png"
         }
     },
     "fileGroups": {

@@ -5,7 +5,8 @@
         "genre": "IDM and Midwest hip hop",
         "dj": "Flying Lotus",
         "icon": {
-            "color": "FlyLo_FM.svg"
+            "color": "FlyLo_FM.svg",
+            "cover": "FlyLo_FM_cover.png"
         }
     },
     "fileGroups": {

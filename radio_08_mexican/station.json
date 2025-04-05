@@ -5,7 +5,8 @@
         "genre": "Mexican music and Latin music",
         "dj": "DJ Camilo and Don Cheto",
         "icon": {
-            "color": "East_Los_FM.svg"
+            "color": "East_Los_FM.svg",
+            "cover": "East_Los_FM_cover.png"
         }
     },
     "fileGroups": {

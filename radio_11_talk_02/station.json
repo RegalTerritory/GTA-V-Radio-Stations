@@ -4,7 +4,9 @@
         "title": "Blaine County Talk Radio",
         "genre": "Public Talk Radio",
         "icon": {
-            "color": "Blaine_County_Talk_Radio.svg"
+            "color": "Blaine_County_Talk_Radio.svg",
+            "full": "Blaine_County_Talk_Radio_full.svg",
+            "cover": "Blaine_County_Talk_Radio_full_cover.png"
         }
     },
     "fileGroups": {

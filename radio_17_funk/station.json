@@ -4,7 +4,8 @@
         "genre": "Funk and R&B",
         "dj": "Bootsy Collins",
         "icon": {
-            "color": "Space.svg"
+            "color": "Space.svg",
+            "cover": "Space_cover.png"
         }
     },
     "fileGroups": {

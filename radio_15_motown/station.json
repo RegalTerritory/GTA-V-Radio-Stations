@@ -4,7 +4,8 @@
         "genre": "Classic soul, disco, gospel",
         "dj": "Pam Grier",
         "icon": {
-            "color": "The_Low_Down.svg"
+            "color": "The_Low_Down.svg",
+            "cover": "The_Low_Down_cover.png"
         }
     },
     "fileGroups": {

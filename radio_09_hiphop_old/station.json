@@ -4,7 +4,9 @@
         "genre": "Golden age hip hop and gangsta rap",
         "dj": "DJ Pooh",
         "icon": {
-            "color": "West_Coast_Classics.svg"
+            "color": "West_Coast_Classics.svg",
+            "monochrome": "West_Coast_Classics_monochrome.svg",
+            "cover": "West_Coast_Classics_cover.png"
         }
     },
     "fileGroups": {

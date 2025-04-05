@@ -4,7 +4,8 @@
         "genre": "Modern contemporary hip hop, trap",
         "dj": "Big Boy",
         "icon": {
-            "color": "Radio_Los_Santos.svg"
+            "color": "Radio_Los_Santos.svg",
+            "cover": "Radio_Los_Santos_cover.png"
         }
     },
     "fileGroups": {

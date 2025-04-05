@@ -4,7 +4,8 @@
         "genre": "Punk rock, hardcore punk and grunge",
         "dj": "Keith Morris",
         "icon": {
-            "color": "Channel_X.svg"
+            "color": "Channel_X.svg",
+            "cover": "Channel_X_cover.png"
         }
     },
     "fileGroups": {

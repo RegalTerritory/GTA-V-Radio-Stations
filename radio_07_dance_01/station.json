@@ -5,7 +5,9 @@
         "genre": "Electronic music",
         "dj": "Soulwax",
         "icon": {
-            "color": "Soulwax_FM.svg"
+            "monochrome": "Soulwax_FM.svg",
+            "full": "Soulwax_FM_full.svg",
+            "cover": "Soulwax_FM_full_cover.png"
         }
     },
     "fileGroups": {

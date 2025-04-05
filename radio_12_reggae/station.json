@@ -4,7 +4,8 @@
         "genre": "Reggae, dancehall and dub",
         "dj": "Lee \"Scratch\" Perry",
         "icon": {
-            "color": "The_Blue_Ark.svg"
+            "color": "The_Blue_Ark.svg",
+            "cover": "The_Blue_Ark_cover.png"
         }
     },
     "fileGroups": {

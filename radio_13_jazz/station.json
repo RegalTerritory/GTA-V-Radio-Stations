@@ -5,7 +5,8 @@
         "genre": "Lounge, chillwave, jazz-funk and world",
         "dj": "Gilles Peterson",
         "icon": {
-            "color": "Worldwide_FM.svg"
+            "color": "Worldwide_FM.svg",
+            "cover": "Worldwide_FM_cover.png"
         }
     },
     "fileGroups": {

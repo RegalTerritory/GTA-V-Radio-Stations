@@ -4,7 +4,8 @@
         "genre": "Country music and rockabilly",
         "dj": "Jesco White",
         "icon": {
-            "color": "Rebel_Radio.svg"
+            "color": "Rebel_Radio.svg",
+            "cover": "Rebel_Radio_cover.png"
         }
     },
     "fileGroups": {

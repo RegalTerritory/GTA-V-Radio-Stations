@@ -4,7 +4,8 @@
         "genre": "Garage rock, alternative rock and noise rock",
         "dj": "Nate Williams and Stephen Pope",
         "icon": {
-            "color": "Vinewood_Boulevard_Radio.svg"
+            "monochrome": "Vinewood_Boulevard_Radio.svg",
+            "cover": "Vinewood_Boulevard_Radio_cover.png"
         }
     },
     "fileGroups": {
