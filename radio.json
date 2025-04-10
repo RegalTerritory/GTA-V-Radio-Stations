@@ -1064,6 +1064,9 @@
         },
         {
             "path": "radio_11_talk_02"
+        },
+        {
+            "path": "dlc_thelab"
         }
     ]
 }
