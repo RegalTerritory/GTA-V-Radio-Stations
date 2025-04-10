@@ -26,7 +26,7 @@ def batch_render_svgs_with_inkscape(input_output_pairs: List[Tuple[Path, Path]],
     dummy_file = input_output_pairs[-1][0]
 
     subprocess.run([
-        "inkscape",
+        "inkscape.com",
         "--batch-process",
         "--export-type=png",
         f"--export-height={export_height}",
@@ -84,7 +84,7 @@ def generate_coverart():
                 data = json.load(file)
 
             icons = data["info"]["icon"]
-            svg_path: Path = station_folder / (icons.get("full") or icons.get("color")) # get icon to use for cover art
+            svg_path: Path = station_folder / (icons.get("full") or icons.get("color") or icons.get("monochrome")) # get icon to use for cover art
 
             temp_png = tmpdir / f"{svg_path.stem}_temp.png"
             input_output_pairs.append((svg_path, temp_png))

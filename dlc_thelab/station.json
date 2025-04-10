@@ -1,0 +1,27 @@
+{
+    "type": "static",
+    "info": {
+        "title": "The Lab",
+        "genre": "Hip hop",
+        "dj": "Oh no and The Alchemist",
+        "icon": {
+            "monochrome": "The_Lab.svg",
+            "cover": "The_Lab_cover.png"
+        }
+    },
+    "fileGroups": {
+        "track": [
+            {
+                "tag": "p1",
+                "path": "lab_p1.m4a",
+                "duration": 2157.909
+            },
+            {
+                "tag": "p2",
+                "path": "lab_p2.m4a",
+                "duration": 1298.066,
+                "audibleDuration": 1297.023
+            }
+        ]
+    }
+}

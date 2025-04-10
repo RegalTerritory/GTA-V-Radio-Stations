@@ -1,5 +1,5 @@
-
 from pathlib import Path
+import json
 
 data_dir = Path(__file__).resolve().parents[1]
 
@@ -11,3 +11,7 @@ def process_all_stations(callback):
 
 def get_stations():
     return list(data_dir.rglob("station.json"))
+
+def save_json(file_path, data):
+    with open(file_path, 'w', encoding='utf-8') as file:
+        json.dump(data, file, indent=4, ensure_ascii=False)
