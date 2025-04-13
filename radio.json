@@ -1051,6 +1051,9 @@
             "path": "radio_15_motown"
         },
         {
+            "path": "radio_20_thelab"
+        },
+        {
             "path": "radio_16_silverlake"
         },
         {
@@ -1060,13 +1063,16 @@
             "path": "radio_18_90s_rock"
         },
         {
+            "path": "radio_21_dlc_xm17"
+        },
+        {
+            "path": "radio_27_dlc_prhei4"
+        },
+        {
             "path": "radio_05_talk_01"
         },
         {
             "path": "radio_11_talk_02"
-        },
-        {
-            "path": "radio_20_thelab"
         }
     ]
 }

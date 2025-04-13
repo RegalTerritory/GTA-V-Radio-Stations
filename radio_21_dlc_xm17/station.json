@@ -1,0 +1,33 @@
+{
+    "type": "static",
+    "info": {
+        "title": "Blonded Los Santos 97.8 FM",
+        "genre": "R&B, soul, hip hop and electronic",
+        "dj": "Frank Ocean",
+        "icon": {
+            "color": "Blonded_Los_Santos.svg",
+            "cover": "Blonded_Los_Santos_cover.png"
+        }
+    },
+    "fileGroups": {
+        "track": [
+            {
+                "tag": "p1",
+                "path": "radio_xm17_p1.m4a",
+                "duration": 1863.72
+            },
+            {
+                "tag": "p2",
+                "path": "radio_xm17_p2.m4a",
+                "duration": 2356.968,
+                "audibleDuration": 2356.229
+            },
+            {
+                "tag": "p3",
+                "path": "radio_xm17_p3.m4a",
+                "duration": 1919.256,
+                "audibleDuration": 1917.716
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "static",
+    "info": {
+        "title": "Still Slipping Los Santos",
+        "genre": "Electronic, house and techno",
+        "dj": "Joy Orbison",
+        "icon": {
+            "color": "Still_Slipping.svg",
+            "cover": "Still_Slipping_cover.png"
+        }
+    },
+    "fileGroups": {
+        "track": [
+            {
+                "tag": "p1",
+                "path": "hei4_still_slipping_p1.m4a",
+                "duration": 1383.816
+            },
+            {
+                "tag": "p2",
+                "path": "hei4_still_slipping_p2.m4a",
+                "duration": 1283.232
+            },
+            {
+                "tag": "p3",
+                "path": "hei4_still_slipping_p3.m4a",
+                "duration": 1390.44
+            },
+            {
+                "tag": "p4",
+                "path": "hei4_still_slipping_p4.m4a",
+                "duration": 460.632
+            }
+        ]
+    }
+}
