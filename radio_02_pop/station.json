@@ -76,21 +76,6 @@
                 ]
             },
             {
-                "path": "circle_in_the_sand.m4a",
-                "duration": 223.32,
-                "audibleDuration": 221.92,
-                "voiceovers": [
-                    {
-                        "path": "intro/circle_in_the_sand_01.m4a",
-                        "duration": 6.71
-                    },
-                    {
-                        "path": "intro/circle_in_the_sand_02.m4a",
-                        "duration": 4.56
-                    }
-                ]
-            },
-            {
                 "path": "cooler_than_me.m4a",
                 "duration": 210.01,
                 "audibleDuration": 209.25,

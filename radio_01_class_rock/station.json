@@ -11,6 +11,21 @@
     "fileGroups": {
         "track": [
             {
+                "path": "circle_in_the_sand.m4a",
+                "duration": 223.32,
+                "audibleDuration": 221.92,
+                "voiceovers": [
+                    {
+                        "path": "intro/circle_in_the_sand_01.m4a",
+                        "duration": 6.71
+                    },
+                    {
+                        "path": "intro/circle_in_the_sand_02.m4a",
+                        "duration": 4.56
+                    }
+                ]
+            },
+            {
                 "path": "all_the_things_she_said.m4a",
                 "duration": 249.54,
                 "voiceovers": [
