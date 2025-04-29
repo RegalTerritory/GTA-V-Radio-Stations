@@ -1,4 +1,5 @@
 {
+    "id": "radio_05_talk_01",
     "type": "talkshow",
     "info": {
         "title": "West Coast Talk Radio",
@@ -9,30 +10,67 @@
             "cover": "WCTR_full_cover.png"
         }
     },
+    "common": {
+        "adverts": [
+            "general_adverts"
+        ]
+    },
     "fileGroups": {
         "track": [
             {
-                "tag": "p1",
                 "path": "mono_chakra_attack_part_1.m4a",
                 "duration": 1818.17,
-                "audibleDuration": 1817.7
+                "audibleDuration": 1817.7,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": null,
+                            "artist": "CHAKRA ATTACK"
+                        }
+                    ]
+                }
             },
             {
-                "tag": "p2",
                 "path": "mono_chakra_attack_part_2.m4a",
-                "duration": 1326.78
+                "duration": 1326.78,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": null,
+                            "artist": "CHAKRA ATTACK"
+                        }
+                    ]
+                }
             },
             {
-                "tag": "p3",
                 "path": "mono_chattersphere.m4a",
                 "duration": 1330.16,
-                "audibleDuration": 1329.3
+                "audibleDuration": 1329.3,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": null,
+                            "artist": "CHATTERSPHERE"
+                        }
+                    ]
+                }
             },
             {
-                "tag": "p4",
                 "path": "mono_fernando_show_1.m4a",
                 "duration": 1069.55,
-                "audibleDuration": 1069.0
+                "audibleDuration": 1069.0,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": null,
+                            "artist": "The Fernando Show"
+                        }
+                    ]
+                }
             }
         ],
         "id": [

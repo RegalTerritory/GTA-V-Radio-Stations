@@ -1,4 +1,5 @@
 {
+    "id": "radio_11_talk_02",
     "type": "talkshow",
     "info": {
         "title": "Blaine County Talk Radio",
@@ -9,31 +10,68 @@
             "cover": "Blaine_County_Talk_Radio_full_cover.png"
         }
     },
+    "common": {
+        "adverts": [
+            "country_adverts"
+        ]
+    },
     "fileGroups": {
         "track": [
             {
-                "tag": "p1",
                 "path": "mono_bcr_community_hour.m4a",
                 "duration": 1196.49,
-                "audibleDuration": 1195.0
+                "audibleDuration": 1195.0,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": null,
+                            "artist": "BCR Community Hour"
+                        }
+                    ]
+                }
             },
             {
-                "tag": "p2",
                 "path": "mono_beyond_insemination_part_1.m4a",
                 "duration": 871.27,
-                "audibleDuration": 870.69
+                "audibleDuration": 870.69,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": null,
+                            "artist": "Beyond Insemination"
+                        }
+                    ]
+                }
             },
             {
-                "tag": "p3",
                 "path": "mono_beyond_insemination_part_2.m4a",
                 "duration": 918.45,
-                "audibleDuration": 917.4
+                "audibleDuration": 917.4,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": null,
+                            "artist": "Beyond Insemination"
+                        }
+                    ]
+                }
             },
             {
-                "tag": "p4",
                 "path": "mono_bless_your_heart.m4a",
                 "duration": 1748.08,
-                "audibleDuration": 1747.7
+                "audibleDuration": 1747.7,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": null,
+                            "artist": "BLESS YOUR HEART"
+                        }
+                    ]
+                }
             }
         ],
         "id": [

@@ -1,4 +1,5 @@
 {
+    "id": "radio_12_reggae",
     "info": {
         "title": "Blue Ark",
         "genre": "Reggae, dancehall and dub",
@@ -8,216 +9,770 @@
             "cover": "The_Blue_Ark_cover.png"
         }
     },
+    "common": {
+        "adverts": [
+            "general_adverts"
+        ]
+    },
     "fileGroups": {
         "track": [
             {
                 "path": "addi_truth.m4a",
                 "duration": 180.61,
-                "audibleDuration": 179.66
+                "audibleDuration": 179.66,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Addi Truth",
+                            "artist": "VYBZ KARTEL"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 4949,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 8960,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 151402,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 175104,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "chapter3.m4a",
                 "duration": 202.35,
-                "voiceovers": [
-                    {
-                        "path": "intro/chapter3_01.m4a",
-                        "duration": 2.62
-                    },
-                    {
-                        "path": "intro/chapter3_02.m4a",
-                        "duration": 6.04
-                    }
-                ]
+                "attachments": {
+                    "intro": [
+                        {
+                            "path": "intro/chapter3_01.m4a",
+                            "duration": 2.62
+                        },
+                        {
+                            "path": "intro/chapter3_02.m4a",
+                            "duration": 6.04
+                        }
+                    ]
+                },
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 600,
+                            "title": "Chapter Three",
+                            "artist": "JOE GIBBS & THE PROFESSIONALS"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 14722,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 31341,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 176344,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 194477,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "crazy_girl.m4a",
                 "duration": 191.21,
                 "audibleDuration": 190.7,
-                "voiceovers": [
-                    {
-                        "path": "intro/crazy_girl_01.m4a",
-                        "duration": 5.8
-                    },
-                    {
-                        "path": "intro/crazy_girl_02.m4a",
-                        "duration": 3.42
-                    }
-                ]
+                "attachments": {
+                    "intro": [
+                        {
+                            "path": "intro/crazy_girl_01.m4a",
+                            "duration": 5.8
+                        },
+                        {
+                            "path": "intro/crazy_girl_02.m4a",
+                            "duration": 3.42
+                        }
+                    ]
+                },
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 600,
+                            "title": "Crazy Girl",
+                            "artist": "HALF PINT"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 160856,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 184077,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "disco_devil.m4a",
                 "duration": 275.05,
-                "voiceovers": [
-                    {
-                        "path": "intro/disco_devil_01.m4a",
-                        "duration": 3.17
-                    },
-                    {
-                        "path": "intro/disco_devil_02.m4a",
-                        "duration": 8.17
-                    }
-                ]
+                "attachments": {
+                    "intro": [
+                        {
+                            "path": "intro/disco_devil_01.m4a",
+                            "duration": 3.17
+                        },
+                        {
+                            "path": "intro/disco_devil_02.m4a",
+                            "duration": 8.17
+                        }
+                    ]
+                },
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Disco Devil",
+                            "artist": "LEE SCRATCH PERRY & THE FULL EXPERIENCE"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 8533,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 20053,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 247466,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 268117,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "grumblin_dub.m4a",
                 "duration": 201.74,
                 "audibleDuration": 200.87,
-                "voiceovers": [
-                    {
-                        "path": "intro/grumblin_dub_01.m4a",
-                        "duration": 5.29
-                    },
-                    {
-                        "path": "intro/grumblin_dub_02.m4a",
-                        "duration": 9.49
-                    }
-                ]
+                "attachments": {
+                    "intro": [
+                        {
+                            "path": "intro/grumblin_dub_01.m4a",
+                            "duration": 5.29
+                        },
+                        {
+                            "path": "intro/grumblin_dub_02.m4a",
+                            "duration": 9.49
+                        }
+                    ]
+                },
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Grumblin' Dub",
+                            "artist": "THE UPSETTERS"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 5390,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 22826,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 168618,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 194069,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "gun_shot_a_fire.m4a",
                 "duration": 196.67,
-                "audibleDuration": 196.3
+                "audibleDuration": 196.3,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Gun Shot A Fire",
+                            "artist": "KONSHENS"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 5781,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 19861,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 160426,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 188138,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "i_am_a_madman.m4a",
                 "duration": 239.91,
                 "audibleDuration": 239.3,
-                "voiceovers": [
-                    {
-                        "path": "intro/i_am_a_madman_01.m4a",
-                        "duration": 11.71
-                    },
-                    {
-                        "path": "intro/i_am_a_madman_02.m4a",
-                        "duration": 11.86,
-                        "audibleDuration": 11.47
-                    }
-                ]
+                "attachments": {
+                    "intro": [
+                        {
+                            "path": "intro/i_am_a_madman_01.m4a",
+                            "duration": 11.71
+                        },
+                        {
+                            "path": "intro/i_am_a_madman_02.m4a",
+                            "duration": 11.86,
+                            "audibleDuration": 11.47
+                        }
+                    ]
+                },
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "I Am A Madman",
+                            "artist": "LEE SCRATCH PERRY"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 5685,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 16837,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 216320,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 234816,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "kingston_be_wise.m4a",
-                "duration": 216.11
+                "duration": 216.11,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Kingston Be Wise",
+                            "artist": "PROTOJE"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 5343,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 15701,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 185685,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 208213,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "kingston_town.m4a",
                 "duration": 196.73,
                 "audibleDuration": 196.03,
-                "voiceovers": [
-                    {
-                        "path": "intro/kingston_town_01.m4a",
-                        "duration": 4.08
-                    },
-                    {
-                        "path": "intro/kingston_town_02.m4a",
-                        "duration": 4.37
-                    }
-                ]
+                "attachments": {
+                    "intro": [
+                        {
+                            "path": "intro/kingston_town_01.m4a",
+                            "duration": 4.08
+                        },
+                        {
+                            "path": "intro/kingston_town_02.m4a",
+                            "duration": 4.37
+                        }
+                    ]
+                },
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Kingston Town",
+                            "artist": "BUSY SIGNAL"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 5179,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 11605,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 168288,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 190922,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "loyals.m4a",
                 "duration": 145.54,
-                "audibleDuration": 145.21
+                "audibleDuration": 145.21,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Loyals (Royals Remix)",
+                            "artist": "DEMARCO"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 120917,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 140117,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "money_come_money_go.m4a",
                 "duration": 263.42,
                 "audibleDuration": 262.91,
-                "voiceovers": [
-                    {
-                        "path": "intro/money_come_money_go_01.m4a",
-                        "duration": 7.48
-                    },
-                    {
-                        "path": "intro/money_come_money_go_02.m4a",
-                        "duration": 7.85
-                    }
-                ]
+                "attachments": {
+                    "intro": [
+                        {
+                            "path": "intro/money_come_money_go_01.m4a",
+                            "duration": 7.48
+                        },
+                        {
+                            "path": "intro/money_come_money_go_02.m4a",
+                            "duration": 7.85
+                        }
+                    ]
+                },
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Money Come And Money Go",
+                            "artist": "LEE \"SCRATCH\" PERRY"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 0,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 0,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 236501,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 257877,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "money_in_my_pocket.m4a",
                 "duration": 206.14,
-                "audibleDuration": 205.82
+                "audibleDuration": 205.82,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Money In My Pocket",
+                            "artist": "DENNIS BROWN"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 5349,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 15765,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 177322,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 199722,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "mr_money_man.m4a",
                 "duration": 204.32,
                 "audibleDuration": 203.24,
-                "voiceovers": [
-                    {
-                        "path": "intro/mr_money_man_01.m4a",
-                        "duration": 9.7
-                    },
-                    {
-                        "path": "intro/mr_money_man_02.m4a",
-                        "duration": 10.84
-                    }
-                ]
+                "attachments": {
+                    "intro": [
+                        {
+                            "path": "intro/mr_money_man_01.m4a",
+                            "duration": 9.7
+                        },
+                        {
+                            "path": "intro/mr_money_man_02.m4a",
+                            "duration": 10.84
+                        }
+                    ]
+                },
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Mr. Money Man",
+                            "artist": "DANNY HENSWORTH"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 3986,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 15414,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 177962,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 199082,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "night_nurse.m4a",
                 "duration": 205.46,
-                "voiceovers": [
-                    {
-                        "path": "intro/night_nurse_01.m4a",
-                        "duration": 10.72
-                    },
-                    {
-                        "path": "intro/night_nurse_02.m4a",
-                        "duration": 8.17
-                    }
-                ]
+                "attachments": {
+                    "intro": [
+                        {
+                            "path": "intro/night_nurse_01.m4a",
+                            "duration": 10.72
+                        },
+                        {
+                            "path": "intro/night_nurse_02.m4a",
+                            "duration": 8.17
+                        }
+                    ]
+                },
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Night Nurse",
+                            "artist": "GREGORY ISAACS"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 4869,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 13942,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 174933,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 194602,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "nobody_move_get_hurt.m4a",
                 "duration": 202.5,
                 "audibleDuration": 202.11,
-                "voiceovers": [
-                    {
-                        "path": "intro/nobody_move_get_hurt_01.m4a",
-                        "duration": 6.32
-                    },
-                    {
-                        "path": "intro/nobody_move_get_hurt_02.m4a",
-                        "duration": 3.85
-                    }
-                ]
+                "attachments": {
+                    "intro": [
+                        {
+                            "path": "intro/nobody_move_get_hurt_01.m4a",
+                            "duration": 6.32
+                        },
+                        {
+                            "path": "intro/nobody_move_get_hurt_02.m4a",
+                            "duration": 3.85
+                        }
+                    ]
+                },
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Nobody Move Nobody Get Hurt",
+                            "artist": "YELLOWMAN"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 5013,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 14677,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 169941,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 192597,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "odd_ras.m4a",
-                "duration": 172.92
+                "duration": 172.92,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 600,
+                            "title": "Odd Ras",
+                            "artist": "CHRONIXX"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 145410,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 166381,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "psycho.m4a",
-                "duration": 136.68
+                "duration": 136.68,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Psycho",
+                            "artist": "TOMMY LEE SPARTA"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 5342,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 17749,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 107349,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 129365,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "roast_fish_and_cornbread.m4a",
                 "duration": 220.03,
-                "audibleDuration": 219.24
+                "audibleDuration": 219.24,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Roast Fish & Cornbread",
+                            "artist": "LEE \"SCRATCH\" PERRY"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 5205,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 16725,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 192298,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 215125,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "sons_of_slaves.m4a",
                 "duration": 264.65,
                 "audibleDuration": 264.31,
-                "voiceovers": [
-                    {
-                        "path": "intro/sons_of_slaves_01.m4a",
-                        "duration": 9.36
-                    },
-                    {
-                        "path": "intro/sons_of_slaves_02.m4a",
-                        "duration": 11.6
-                    }
-                ]
+                "attachments": {
+                    "intro": [
+                        {
+                            "path": "intro/sons_of_slaves_01.m4a",
+                            "duration": 9.36
+                        },
+                        {
+                            "path": "intro/sons_of_slaves_02.m4a",
+                            "duration": 11.6
+                        }
+                    ]
+                },
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Sons Of Slaves",
+                            "artist": "JUNIOR DELGADO"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 5589,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 16186,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 218453,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 251648,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "topic_of_the_day.m4a",
                 "duration": 189.27,
-                "audibleDuration": 188.67
+                "audibleDuration": 188.67,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Topic Of The Day",
+                            "artist": "I-OCTANE"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 164776,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 187005,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             },
             {
                 "path": "we_never_fear_dem.m4a",
-                "duration": 166.82
+                "duration": 166.82,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 456,
+                            "title": "We Never Fear Dem",
+                            "artist": "VYBZ KARTEL FEAT. POPCAAN"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 133064,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 156445,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
             }
         ],
         "general": [
