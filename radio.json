@@ -64,7 +64,7 @@
   "common": {
     "general_adverts": [
       {
-        "path": "common/adverts/mono_ad001_life_invader.m4a",
+        "path": "common/promos/mono_ad001_life_invader.m4a",
         "duration": 31.05,
         "audibleDuration": 30.462,
         "markers": {
@@ -78,7 +78,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad002_righteous_slaughter_nuke.m4a",
+        "path": "common/promos/mono_ad002_righteous_slaughter_nuke.m4a",
         "duration": 27.93,
         "audibleDuration": 27.177,
         "markers": {
@@ -92,7 +92,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad003_righteous_slaughter_russian.m4a",
+        "path": "common/promos/mono_ad003_righteous_slaughter_russian.m4a",
         "duration": 55.09,
         "audibleDuration": 54.48,
         "markers": {
@@ -106,7 +106,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad004_righteous_slaughter_levels.m4a",
+        "path": "common/promos/mono_ad004_righteous_slaughter_levels.m4a",
         "duration": 48.34,
         "audibleDuration": 47.63,
         "markers": {
@@ -120,7 +120,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad005_sa_tourism_board.m4a",
+        "path": "common/promos/mono_ad005_sa_tourism_board.m4a",
         "duration": 51.73,
         "markers": {
           "track": [
@@ -133,7 +133,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad009_prop_43.m4a",
+        "path": "common/promos/mono_ad009_prop_43.m4a",
         "duration": 32.25,
         "markers": {
           "track": [
@@ -146,7 +146,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad010_toeshoes.m4a",
+        "path": "common/promos/mono_ad010_toeshoes.m4a",
         "duration": 25.17,
         "markers": {
           "track": [
@@ -159,7 +159,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad011_implant_outsource.m4a",
+        "path": "common/promos/mono_ad011_implant_outsource.m4a",
         "duration": 35.41,
         "markers": {
           "track": [
@@ -172,7 +172,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad014_prop208_dad.m4a",
+        "path": "common/promos/mono_ad014_prop208_dad.m4a",
         "duration": 31.11,
         "markers": {
           "track": [
@@ -185,7 +185,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad017_queensbury_boxing.m4a",
+        "path": "common/promos/mono_ad017_queensbury_boxing.m4a",
         "duration": 45.92,
         "audibleDuration": 45.566,
         "markers": {
@@ -199,7 +199,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad021_rectify_holistic.m4a",
+        "path": "common/promos/mono_ad021_rectify_holistic.m4a",
         "duration": 45.66,
         "audibleDuration": 44.777,
         "markers": {
@@ -213,7 +213,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad023_ovine_human_resources.m4a",
+        "path": "common/promos/mono_ad023_ovine_human_resources.m4a",
         "duration": 47.2,
         "audibleDuration": 46.462,
         "markers": {
@@ -227,7 +227,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad027_sa_labotomy.m4a",
+        "path": "common/promos/mono_ad027_sa_labotomy.m4a",
         "duration": 37.05,
         "audibleDuration": 36.329,
         "markers": {
@@ -241,7 +241,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad028_darwinian_yoga.m4a",
+        "path": "common/promos/mono_ad028_darwinian_yoga.m4a",
         "duration": 39.34,
         "audibleDuration": 37.566,
         "markers": {
@@ -255,7 +255,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad034_head_shots.m4a",
+        "path": "common/promos/mono_ad034_head_shots.m4a",
         "duration": 61.95,
         "audibleDuration": 61.01,
         "markers": {
@@ -269,7 +269,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad037_stop_paying_mortgage.m4a",
+        "path": "common/promos/mono_ad037_stop_paying_mortgage.m4a",
         "duration": 42.15,
         "audibleDuration": 41.193,
         "markers": {
@@ -283,7 +283,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad044_hipsters_for_hire.m4a",
+        "path": "common/promos/mono_ad044_hipsters_for_hire.m4a",
         "duration": 54.32,
         "audibleDuration": 53.58,
         "markers": {
@@ -297,7 +297,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad048_windsor_immigrant.m4a",
+        "path": "common/promos/mono_ad048_windsor_immigrant.m4a",
         "duration": 41.01,
         "audibleDuration": 40.425,
         "markers": {
@@ -311,7 +311,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad049_windsor_swinger_grotto.m4a",
+        "path": "common/promos/mono_ad049_windsor_swinger_grotto.m4a",
         "duration": 58.47,
         "audibleDuration": 57.42,
         "markers": {
@@ -325,7 +325,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad050_cuckold_theraphy.m4a",
+        "path": "common/promos/mono_ad050_cuckold_theraphy.m4a",
         "duration": 60.51,
         "audibleDuration": 60.009,
         "markers": {
@@ -339,7 +339,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad051_digifarm_daughter.m4a",
+        "path": "common/promos/mono_ad051_digifarm_daughter.m4a",
         "duration": 47.43,
         "audibleDuration": 46.313,
         "markers": {
@@ -353,7 +353,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad052_digifarm_other_games.m4a",
+        "path": "common/promos/mono_ad052_digifarm_other_games.m4a",
         "duration": 54.69,
         "audibleDuration": 54.03,
         "markers": {
@@ -367,7 +367,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad054_lombank.m4a",
+        "path": "common/promos/mono_ad054_lombank.m4a",
         "duration": 61.57,
         "audibleDuration": 60.62,
         "markers": {
@@ -381,7 +381,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad056_vinewood_health.m4a",
+        "path": "common/promos/mono_ad056_vinewood_health.m4a",
         "duration": 57.04,
         "audibleDuration": 55.849,
         "markers": {
@@ -395,7 +395,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad006_desert_tourism.m4a",
+        "path": "common/promos/mono_ad006_desert_tourism.m4a",
         "duration": 37.03,
         "audibleDuration": 36.286,
         "markers": {
@@ -409,7 +409,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad007_sa_water_power.m4a",
+        "path": "common/promos/mono_ad007_sa_water_power.m4a",
         "duration": 35.04,
         "markers": {
           "track": [
@@ -422,7 +422,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad008_up_n_atom.m4a",
+        "path": "common/promos/mono_ad008_up_n_atom.m4a",
         "duration": 22.84,
         "markers": {
           "track": [
@@ -435,7 +435,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad012_donate_your_car.m4a",
+        "path": "common/promos/mono_ad012_donate_your_car.m4a",
         "duration": 38.35,
         "markers": {
           "track": [
@@ -448,7 +448,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad013_race_to_pluto.m4a",
+        "path": "common/promos/mono_ad013_race_to_pluto.m4a",
         "duration": 27.81,
         "audibleDuration": 26.96,
         "markers": {
@@ -462,7 +462,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad015_prop208_jungle.m4a",
+        "path": "common/promos/mono_ad015_prop208_jungle.m4a",
         "duration": 23.09,
         "audibleDuration": 21.993,
         "markers": {
@@ -476,7 +476,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad016_pisswasser.m4a",
+        "path": "common/promos/mono_ad016_pisswasser.m4a",
         "duration": 82.05,
         "audibleDuration": 81.577,
         "markers": {
@@ -490,7 +490,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad018_lottery_starving_children.m4a",
+        "path": "common/promos/mono_ad018_lottery_starving_children.m4a",
         "duration": 23.87,
         "markers": {
           "track": [
@@ -503,7 +503,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad019_lottery_really_addicted.m4a",
+        "path": "common/promos/mono_ad019_lottery_really_addicted.m4a",
         "duration": 20.66,
         "audibleDuration": 19.98,
         "markers": {
@@ -517,7 +517,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad020_whiz_wirless.m4a",
+        "path": "common/promos/mono_ad020_whiz_wirless.m4a",
         "duration": 39.77,
         "audibleDuration": 38.334,
         "markers": {
@@ -531,7 +531,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad022_bail_bonds.m4a",
+        "path": "common/promos/mono_ad022_bail_bonds.m4a",
         "duration": 39.18,
         "markers": {
           "track": [
@@ -544,7 +544,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad024_proposition_14.m4a",
+        "path": "common/promos/mono_ad024_proposition_14.m4a",
         "duration": 33.95,
         "markers": {
           "track": [
@@ -557,7 +557,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad025_pic_officer.m4a",
+        "path": "common/promos/mono_ad025_pic_officer.m4a",
         "duration": 36.94,
         "audibleDuration": 36.43,
         "markers": {
@@ -571,7 +571,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad026_pic_franchise.m4a",
+        "path": "common/promos/mono_ad026_pic_franchise.m4a",
         "duration": 66.35,
         "audibleDuration": 65.42,
         "markers": {
@@ -585,7 +585,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad029_gastro_band.m4a",
+        "path": "common/promos/mono_ad029_gastro_band.m4a",
         "duration": 57.29,
         "audibleDuration": 56.702,
         "markers": {
@@ -599,7 +599,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad030_economic_recovery_group.m4a",
+        "path": "common/promos/mono_ad030_economic_recovery_group.m4a",
         "duration": 33.18,
         "audibleDuration": 32.041,
         "markers": {
@@ -613,7 +613,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad031_rehab_island.m4a",
+        "path": "common/promos/mono_ad031_rehab_island.m4a",
         "duration": 47.12,
         "audibleDuration": 46.078,
         "markers": {
@@ -627,7 +627,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad033_night_lights.m4a",
+        "path": "common/promos/mono_ad033_night_lights.m4a",
         "duration": 51.77,
         "audibleDuration": 51.369,
         "markers": {
@@ -641,7 +641,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad035_electrotoke.m4a",
+        "path": "common/promos/mono_ad035_electrotoke.m4a",
         "duration": 47.81,
         "audibleDuration": 46.7,
         "markers": {
@@ -655,7 +655,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad036_toilet_cleaner.m4a",
+        "path": "common/promos/mono_ad036_toilet_cleaner.m4a",
         "duration": 28.12,
         "audibleDuration": 27.433,
         "markers": {
@@ -669,7 +669,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad040_fleeca_interest_fees.m4a",
+        "path": "common/promos/mono_ad040_fleeca_interest_fees.m4a",
         "duration": 41.1,
         "audibleDuration": 40.254,
         "markers": {
@@ -683,7 +683,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad041_fleeca_bedroom.m4a",
+        "path": "common/promos/mono_ad041_fleeca_bedroom.m4a",
         "duration": 44.36,
         "audibleDuration": 43.561,
         "markers": {
@@ -697,7 +697,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad042_shark.m4a",
+        "path": "common/promos/mono_ad042_shark.m4a",
         "duration": 45.26,
         "audibleDuration": 44.69,
         "markers": {
@@ -711,7 +711,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad043_smoked_dreams.m4a",
+        "path": "common/promos/mono_ad043_smoked_dreams.m4a",
         "duration": 60.78,
         "audibleDuration": 60.03,
         "markers": {
@@ -725,7 +725,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad045_preservex.m4a",
+        "path": "common/promos/mono_ad045_preservex.m4a",
         "duration": 39.34,
         "audibleDuration": 38.569,
         "markers": {
@@ -739,7 +739,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad047_proposition_45.m4a",
+        "path": "common/promos/mono_ad047_proposition_45.m4a",
         "duration": 48.54,
         "markers": {
           "track": [
@@ -752,7 +752,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad055_hitting_kids_works_wonders.m4a",
+        "path": "common/promos/mono_ad055_hitting_kids_works_wonders.m4a",
         "duration": 40.96,
         "audibleDuration": 39.89,
         "markers": {
@@ -766,7 +766,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad057_benders_wanker.m4a",
+        "path": "common/promos/mono_ad057_benders_wanker.m4a",
         "duration": 48.9,
         "audibleDuration": 48.361,
         "markers": {
@@ -780,7 +780,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad058_benders_pies.m4a",
+        "path": "common/promos/mono_ad058_benders_pies.m4a",
         "duration": 55.57,
         "audibleDuration": 55.038,
         "markers": {
@@ -794,7 +794,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad059_youtool.m4a",
+        "path": "common/promos/mono_ad059_youtool.m4a",
         "duration": 53.71,
         "audibleDuration": 52.88,
         "markers": {
@@ -808,7 +808,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad060_amunation_gardening.m4a",
+        "path": "common/promos/mono_ad060_amunation_gardening.m4a",
         "duration": 69.89,
         "markers": {
           "track": [
@@ -821,7 +821,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad061_amunation_apocolypse.m4a",
+        "path": "common/promos/mono_ad061_amunation_apocolypse.m4a",
         "duration": 79.99,
         "audibleDuration": 79.017,
         "markers": {
@@ -835,7 +835,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad062_flow_water.m4a",
+        "path": "common/promos/mono_ad062_flow_water.m4a",
         "duration": 50.1,
         "audibleDuration": 49.662,
         "markers": {
@@ -849,7 +849,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad063_sex_addiction_opportunity.m4a",
+        "path": "common/promos/mono_ad063_sex_addiction_opportunity.m4a",
         "duration": 58.23,
         "audibleDuration": 57.449,
         "markers": {
@@ -863,7 +863,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad064_serious_cougar.m4a",
+        "path": "common/promos/mono_ad064_serious_cougar.m4a",
         "duration": 28.22,
         "audibleDuration": 27.79,
         "markers": {
@@ -877,7 +877,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad065_cloud_computing.m4a",
+        "path": "common/promos/mono_ad065_cloud_computing.m4a",
         "duration": 64.6,
         "audibleDuration": 63.614,
         "markers": {
@@ -891,7 +891,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad067_pride_prej_grain_alcohol.m4a",
+        "path": "common/promos/mono_ad067_pride_prej_grain_alcohol.m4a",
         "duration": 47.86,
         "audibleDuration": 47.337,
         "markers": {
@@ -905,7 +905,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad068_pride_prej_tornado.m4a",
+        "path": "common/promos/mono_ad068_pride_prej_tornado.m4a",
         "duration": 57.73,
         "audibleDuration": 57.129,
         "markers": {
@@ -919,7 +919,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad069_hitting_kids_pot.m4a",
+        "path": "common/promos/mono_ad069_hitting_kids_pot.m4a",
         "duration": 22.85,
         "audibleDuration": 22.057,
         "markers": {
@@ -933,7 +933,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad070_hammerstein_faust.m4a",
+        "path": "common/promos/mono_ad070_hammerstein_faust.m4a",
         "duration": 42.6,
         "audibleDuration": 41.87,
         "markers": {
@@ -947,7 +947,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad071_grain_of_truth.m4a",
+        "path": "common/promos/mono_ad071_grain_of_truth.m4a",
         "duration": 61.46,
         "audibleDuration": 60.478,
         "markers": {
@@ -961,7 +961,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad072_fly_us_choice.m4a",
+        "path": "common/promos/mono_ad072_fly_us_choice.m4a",
         "duration": 19.18,
         "audibleDuration": 18.302,
         "markers": {
@@ -975,7 +975,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad073_fly_us_drunk.m4a",
+        "path": "common/promos/mono_ad073_fly_us_drunk.m4a",
         "duration": 15.41,
         "audibleDuration": 14.61,
         "markers": {
@@ -989,7 +989,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad074_fly_us_planes.m4a",
+        "path": "common/promos/mono_ad074_fly_us_planes.m4a",
         "duration": 18.9,
         "audibleDuration": 18.45,
         "markers": {
@@ -1003,7 +1003,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad075_refinance_ls_commerce.m4a",
+        "path": "common/promos/mono_ad075_refinance_ls_commerce.m4a",
         "duration": 57.66,
         "audibleDuration": 56.51,
         "markers": {
@@ -1017,7 +1017,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad076_rebranding_jerking.m4a",
+        "path": "common/promos/mono_ad076_rebranding_jerking.m4a",
         "duration": 57.23,
         "audibleDuration": 56.21,
         "markers": {
@@ -1031,7 +1031,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad077_rebranding_abyss.m4a",
+        "path": "common/promos/mono_ad077_rebranding_abyss.m4a",
         "duration": 43.75,
         "audibleDuration": 42.96,
         "markers": {
@@ -1045,7 +1045,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad078_sex_addict_drowning.m4a",
+        "path": "common/promos/mono_ad078_sex_addict_drowning.m4a",
         "duration": 22.23,
         "audibleDuration": 21.054,
         "markers": {
@@ -1059,7 +1059,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad079_sex_addict_train.m4a",
+        "path": "common/promos/mono_ad079_sex_addict_train.m4a",
         "duration": 26.84,
         "audibleDuration": 25.961,
         "markers": {
@@ -1073,7 +1073,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad080_sex_manopause.m4a",
+        "path": "common/promos/mono_ad080_sex_manopause.m4a",
         "duration": 68.1,
         "audibleDuration": 67.09,
         "markers": {
@@ -1087,7 +1087,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad081_mma.m4a",
+        "path": "common/promos/mono_ad081_mma.m4a",
         "duration": 39.67,
         "audibleDuration": 38.825,
         "markers": {
@@ -1101,7 +1101,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad083_egochaser.m4a",
+        "path": "common/promos/mono_ad083_egochaser.m4a",
         "duration": 50.56,
         "audibleDuration": 49.406,
         "markers": {
@@ -1115,7 +1115,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad084_chains_intmacy_throb.m4a",
+        "path": "common/promos/mono_ad084_chains_intmacy_throb.m4a",
         "duration": 34.8,
         "audibleDuration": 34.089,
         "markers": {
@@ -1129,7 +1129,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad085_chains_intmacy_diamonds.m4a",
+        "path": "common/promos/mono_ad085_chains_intmacy_diamonds.m4a",
         "duration": 46.34,
         "audibleDuration": 45.7,
         "markers": {
@@ -1143,7 +1143,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad086_bravado_farms.m4a",
+        "path": "common/promos/mono_ad086_bravado_farms.m4a",
         "duration": 61.41,
         "audibleDuration": 60.606,
         "markers": {
@@ -1157,7 +1157,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad087_bravado_cruise_control.m4a",
+        "path": "common/promos/mono_ad087_bravado_cruise_control.m4a",
         "duration": 31.59,
         "audibleDuration": 30.334,
         "markers": {
@@ -1171,7 +1171,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad088_sa_flight_school.m4a",
+        "path": "common/promos/mono_ad088_sa_flight_school.m4a",
         "duration": 54.5,
         "audibleDuration": 53.822,
         "markers": {
@@ -1185,7 +1185,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad090_crevis_everest.m4a",
+        "path": "common/promos/mono_ad090_crevis_everest.m4a",
         "duration": 37.47,
         "audibleDuration": 36.457,
         "markers": {
@@ -1199,7 +1199,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad091_epsilon_antartica.m4a",
+        "path": "common/promos/mono_ad091_epsilon_antartica.m4a",
         "duration": 24.74,
         "audibleDuration": 24.105,
         "markers": {
@@ -1213,7 +1213,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad092_epsilon_famous_people.m4a",
+        "path": "common/promos/mono_ad092_epsilon_famous_people.m4a",
         "duration": 27.5,
         "audibleDuration": 26.558,
         "markers": {
@@ -1227,7 +1227,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad093_sex_addiction_victim.m4a",
+        "path": "common/promos/mono_ad093_sex_addiction_victim.m4a",
         "duration": 24.81,
         "audibleDuration": 24.169,
         "markers": {
@@ -1241,7 +1241,7 @@
         }
       },
       {
-        "path": "common/adverts/ad082_alcoholia.m4a",
+        "path": "common/promos/ad082_alcoholia.m4a",
         "duration": 48.32,
         "markers": {
           "track": [
@@ -1254,7 +1254,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad094_pontius.m4a",
+        "path": "common/promos/mono_ad094_pontius.m4a",
         "duration": 50.81,
         "audibleDuration": 50.13,
         "markers": {
@@ -1268,7 +1268,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad089_crevis_nature_revised.m4a",
+        "path": "common/promos/mono_ad089_crevis_nature_revised.m4a",
         "duration": 40.69,
         "audibleDuration": 39.0,
         "markers": {
@@ -1282,7 +1282,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad095_sue_murry.m4a",
+        "path": "common/promos/mono_ad095_sue_murry.m4a",
         "duration": 43.97,
         "audibleDuration": 43.561,
         "markers": {
@@ -1296,7 +1296,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad096_jock_cranley1.m4a",
+        "path": "common/promos/mono_ad096_jock_cranley1.m4a",
         "duration": 55.63,
         "audibleDuration": 55.038,
         "markers": {
@@ -1310,7 +1310,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad097_jock_cranley2.m4a",
+        "path": "common/promos/mono_ad097_jock_cranley2.m4a",
         "duration": 44.75,
         "audibleDuration": 43.41,
         "markers": {
@@ -1324,7 +1324,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_001_extpal",
+        "path": "common/promos/mono_ad_ng_001_extpal.m4a",
         "duration": 49.941,
         "markers": {
           "track": [
@@ -1337,7 +1337,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_002_extpal",
+        "path": "common/promos/mono_ad_ng_002_extpal.m4a",
         "duration": 48.341,
         "markers": {
           "track": [
@@ -1350,7 +1350,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_003_macrac",
+        "path": "common/promos/mono_ad_ng_003_macrac.m4a",
         "duration": 47.658,
         "markers": {
           "track": [
@@ -1363,7 +1363,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_004_macrac2",
+        "path": "common/promos/mono_ad_ng_004_macrac2.m4a",
         "duration": 47.658,
         "markers": {
           "track": [
@@ -1376,7 +1376,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_005_mysta",
+        "path": "common/promos/mono_ad_ng_005_mysta.m4a",
         "duration": 55.717,
         "markers": {
           "track": [
@@ -1389,7 +1389,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_006_phachi",
+        "path": "common/promos/mono_ad_ng_006_phachi.m4a",
         "duration": 54.576,
         "markers": {
           "track": [
@@ -1402,7 +1402,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_007_tcse",
+        "path": "common/promos/mono_ad_ng_007_tcse.m4a",
         "duration": 60.842,
         "markers": {
           "track": [
@@ -1415,7 +1415,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_008_tcse2",
+        "path": "common/promos/mono_ad_ng_008_tcse2.m4a",
         "duration": 48.344,
         "markers": {
           "track": [
@@ -1428,7 +1428,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_009_vislib",
+        "path": "common/promos/mono_ad_ng_009_vislib.m4a",
         "duration": 52.266,
         "markers": {
           "track": [
@@ -1443,7 +1443,7 @@
     ],
     "country_adverts": [
       {
-        "path": "common/adverts/mono_ad006_desert_tourism.m4a",
+        "path": "common/promos/mono_ad006_desert_tourism.m4a",
         "duration": 37.03,
         "audibleDuration": 36.286,
         "markers": {
@@ -1457,7 +1457,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad007_sa_water_power.m4a",
+        "path": "common/promos/mono_ad007_sa_water_power.m4a",
         "duration": 35.04,
         "markers": {
           "track": [
@@ -1470,7 +1470,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad008_up_n_atom.m4a",
+        "path": "common/promos/mono_ad008_up_n_atom.m4a",
         "duration": 22.84,
         "markers": {
           "track": [
@@ -1483,7 +1483,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad012_donate_your_car.m4a",
+        "path": "common/promos/mono_ad012_donate_your_car.m4a",
         "duration": 38.35,
         "markers": {
           "track": [
@@ -1496,7 +1496,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad013_race_to_pluto.m4a",
+        "path": "common/promos/mono_ad013_race_to_pluto.m4a",
         "duration": 27.81,
         "audibleDuration": 26.96,
         "markers": {
@@ -1510,7 +1510,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad015_prop208_jungle.m4a",
+        "path": "common/promos/mono_ad015_prop208_jungle.m4a",
         "duration": 23.09,
         "audibleDuration": 21.993,
         "markers": {
@@ -1524,7 +1524,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad016_pisswasser.m4a",
+        "path": "common/promos/mono_ad016_pisswasser.m4a",
         "duration": 82.05,
         "audibleDuration": 81.577,
         "markers": {
@@ -1538,7 +1538,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad018_lottery_starving_children.m4a",
+        "path": "common/promos/mono_ad018_lottery_starving_children.m4a",
         "duration": 23.87,
         "markers": {
           "track": [
@@ -1551,7 +1551,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad019_lottery_really_addicted.m4a",
+        "path": "common/promos/mono_ad019_lottery_really_addicted.m4a",
         "duration": 20.66,
         "audibleDuration": 19.98,
         "markers": {
@@ -1565,7 +1565,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad020_whiz_wirless.m4a",
+        "path": "common/promos/mono_ad020_whiz_wirless.m4a",
         "duration": 39.77,
         "audibleDuration": 38.334,
         "markers": {
@@ -1579,7 +1579,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad022_bail_bonds.m4a",
+        "path": "common/promos/mono_ad022_bail_bonds.m4a",
         "duration": 39.18,
         "markers": {
           "track": [
@@ -1592,7 +1592,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad024_proposition_14.m4a",
+        "path": "common/promos/mono_ad024_proposition_14.m4a",
         "duration": 33.95,
         "markers": {
           "track": [
@@ -1605,7 +1605,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad025_pic_officer.m4a",
+        "path": "common/promos/mono_ad025_pic_officer.m4a",
         "duration": 36.94,
         "audibleDuration": 36.43,
         "markers": {
@@ -1619,7 +1619,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad026_pic_franchise.m4a",
+        "path": "common/promos/mono_ad026_pic_franchise.m4a",
         "duration": 66.35,
         "audibleDuration": 65.42,
         "markers": {
@@ -1633,7 +1633,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad029_gastro_band.m4a",
+        "path": "common/promos/mono_ad029_gastro_band.m4a",
         "duration": 57.29,
         "audibleDuration": 56.702,
         "markers": {
@@ -1647,7 +1647,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad030_economic_recovery_group.m4a",
+        "path": "common/promos/mono_ad030_economic_recovery_group.m4a",
         "duration": 33.18,
         "audibleDuration": 32.041,
         "markers": {
@@ -1661,7 +1661,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad031_rehab_island.m4a",
+        "path": "common/promos/mono_ad031_rehab_island.m4a",
         "duration": 47.12,
         "audibleDuration": 46.078,
         "markers": {
@@ -1675,7 +1675,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad032_larrys_rv_sales.m4a",
+        "path": "common/promos/mono_ad032_larrys_rv_sales.m4a",
         "duration": 51.32,
         "audibleDuration": 50.622,
         "markers": {
@@ -1689,7 +1689,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad033_night_lights.m4a",
+        "path": "common/promos/mono_ad033_night_lights.m4a",
         "duration": 51.77,
         "audibleDuration": 51.369,
         "markers": {
@@ -1703,7 +1703,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad035_electrotoke.m4a",
+        "path": "common/promos/mono_ad035_electrotoke.m4a",
         "duration": 47.81,
         "audibleDuration": 46.7,
         "markers": {
@@ -1717,7 +1717,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad036_toilet_cleaner.m4a",
+        "path": "common/promos/mono_ad036_toilet_cleaner.m4a",
         "duration": 28.12,
         "audibleDuration": 27.433,
         "markers": {
@@ -1731,7 +1731,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad038_floyds_scrap_metal.m4a",
+        "path": "common/promos/mono_ad038_floyds_scrap_metal.m4a",
         "duration": 51.92,
         "markers": {
           "track": [
@@ -1744,7 +1744,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad039_buddys_trucking.m4a",
+        "path": "common/promos/mono_ad039_buddys_trucking.m4a",
         "duration": 49.41,
         "audibleDuration": 48.78,
         "markers": {
@@ -1758,7 +1758,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad040_fleeca_interest_fees.m4a",
+        "path": "common/promos/mono_ad040_fleeca_interest_fees.m4a",
         "duration": 41.1,
         "audibleDuration": 40.254,
         "markers": {
@@ -1772,7 +1772,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad041_fleeca_bedroom.m4a",
+        "path": "common/promos/mono_ad041_fleeca_bedroom.m4a",
         "duration": 44.36,
         "audibleDuration": 43.561,
         "markers": {
@@ -1786,7 +1786,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad042_shark.m4a",
+        "path": "common/promos/mono_ad042_shark.m4a",
         "duration": 45.26,
         "audibleDuration": 44.69,
         "markers": {
@@ -1800,7 +1800,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad043_smoked_dreams.m4a",
+        "path": "common/promos/mono_ad043_smoked_dreams.m4a",
         "duration": 60.78,
         "audibleDuration": 60.03,
         "markers": {
@@ -1814,7 +1814,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad045_preservex.m4a",
+        "path": "common/promos/mono_ad045_preservex.m4a",
         "duration": 39.34,
         "audibleDuration": 38.569,
         "markers": {
@@ -1828,7 +1828,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad046_dons_country_store.m4a",
+        "path": "common/promos/mono_ad046_dons_country_store.m4a",
         "duration": 42.47,
         "audibleDuration": 41.577,
         "markers": {
@@ -1842,7 +1842,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad047_proposition_45.m4a",
+        "path": "common/promos/mono_ad047_proposition_45.m4a",
         "duration": 48.54,
         "markers": {
           "track": [
@@ -1855,7 +1855,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad053_blaine_county_bank.m4a",
+        "path": "common/promos/mono_ad053_blaine_county_bank.m4a",
         "duration": 32.08,
         "audibleDuration": 31.422,
         "markers": {
@@ -1869,7 +1869,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad055_hitting_kids_works_wonders.m4a",
+        "path": "common/promos/mono_ad055_hitting_kids_works_wonders.m4a",
         "duration": 40.96,
         "audibleDuration": 39.89,
         "markers": {
@@ -1883,7 +1883,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad064_serious_cougar.m4a",
+        "path": "common/promos/mono_ad064_serious_cougar.m4a",
         "duration": 28.22,
         "audibleDuration": 27.79,
         "markers": {
@@ -1897,7 +1897,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad069_hitting_kids_pot.m4a",
+        "path": "common/promos/mono_ad069_hitting_kids_pot.m4a",
         "duration": 22.85,
         "audibleDuration": 22.057,
         "markers": {
@@ -1911,7 +1911,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad081_mma.m4a",
+        "path": "common/promos/mono_ad081_mma.m4a",
         "duration": 39.67,
         "audibleDuration": 38.825,
         "markers": {
@@ -1925,7 +1925,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad084_chains_intmacy_throb.m4a",
+        "path": "common/promos/mono_ad084_chains_intmacy_throb.m4a",
         "duration": 34.8,
         "audibleDuration": 34.089,
         "markers": {
@@ -1939,7 +1939,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad085_chains_intmacy_diamonds.m4a",
+        "path": "common/promos/mono_ad085_chains_intmacy_diamonds.m4a",
         "duration": 46.34,
         "audibleDuration": 45.7,
         "markers": {
@@ -1953,7 +1953,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad093_sex_addiction_victim.m4a",
+        "path": "common/promos/mono_ad093_sex_addiction_victim.m4a",
         "duration": 24.81,
         "audibleDuration": 24.169,
         "markers": {
@@ -1967,7 +1967,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad094_pontius.m4a",
+        "path": "common/promos/mono_ad094_pontius.m4a",
         "duration": 50.81,
         "audibleDuration": 50.13,
         "markers": {
@@ -1981,7 +1981,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad095_sue_murry.m4a",
+        "path": "common/promos/mono_ad095_sue_murry.m4a",
         "duration": 43.97,
         "audibleDuration": 43.561,
         "markers": {
@@ -1995,7 +1995,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad096_jock_cranley1.m4a",
+        "path": "common/promos/mono_ad096_jock_cranley1.m4a",
         "duration": 55.63,
         "audibleDuration": 55.038,
         "markers": {
@@ -2009,7 +2009,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad097_jock_cranley2.m4a",
+        "path": "common/promos/mono_ad097_jock_cranley2.m4a",
         "duration": 44.75,
         "audibleDuration": 43.41,
         "markers": {
@@ -2023,7 +2023,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_009_vislib",
+        "path": "common/promos/mono_ad_ng_009_vislib.m4a",
         "duration": 52.266,
         "markers": {
           "track": [
@@ -2036,7 +2036,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_008_tcse2",
+        "path": "common/promos/mono_ad_ng_008_tcse2.m4a",
         "duration": 48.344,
         "markers": {
           "track": [
@@ -2049,7 +2049,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_007_tcse",
+        "path": "common/promos/mono_ad_ng_007_tcse.m4a",
         "duration": 60.842,
         "markers": {
           "track": [
@@ -2062,7 +2062,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_006_phachi",
+        "path": "common/promos/mono_ad_ng_006_phachi.m4a",
         "duration": 54.576,
         "markers": {
           "track": [
@@ -2075,7 +2075,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_005_mysta",
+        "path": "common/promos/mono_ad_ng_005_mysta.m4a",
         "duration": 55.717,
         "markers": {
           "track": [
@@ -2088,7 +2088,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_004_macrac2",
+        "path": "common/promos/mono_ad_ng_004_macrac2.m4a",
         "duration": 47.658,
         "markers": {
           "track": [
@@ -2101,7 +2101,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_003_macrac",
+        "path": "common/promos/mono_ad_ng_003_macrac.m4a",
         "duration": 47.658,
         "markers": {
           "track": [
@@ -2114,7 +2114,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_002_extpal",
+        "path": "common/promos/mono_ad_ng_002_extpal.m4a",
         "duration": 48.341,
         "markers": {
           "track": [
@@ -2127,7 +2127,7 @@
         }
       },
       {
-        "path": "common/adverts/mono_ad_ng_001_extpal",
+        "path": "common/promos/mono_ad_ng_001_extpal.m4a",
         "duration": 49.941,
         "markers": {
           "track": [
