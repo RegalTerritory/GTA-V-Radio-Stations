@@ -18,6 +18,50 @@
     "fileGroups": {
         "track": [
             {
+                "path": "circle_in_the_sand.m4a",
+                "duration": 223.32,
+                "audibleDuration": 221.92,
+                "attachments": {
+                    "intro": [
+                        {
+                            "path": "intro/circle_in_the_sand_01.m4a",
+                            "duration": 6.71
+                        },
+                        {
+                            "path": "intro/circle_in_the_sand_02.m4a",
+                            "duration": 4.56
+                        }
+                    ]
+                },
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 0,
+                            "title": "Circle In The Sand",
+                            "artist": "BELINDA CARLISLE"
+                        }
+                    ],
+                    "dj": [
+                        {
+                            "offset": 4666,
+                            "value": "intro_start"
+                        },
+                        {
+                            "offset": 21733,
+                            "value": "intro_end"
+                        },
+                        {
+                            "offset": 197861,
+                            "value": "outro_start"
+                        },
+                        {
+                            "offset": 217664,
+                            "value": "outro_end"
+                        }
+                    ]
+                }
+            },
+            {
                 "path": "adult_education.m4a",
                 "duration": 259.33,
                 "audibleDuration": 258.32,
