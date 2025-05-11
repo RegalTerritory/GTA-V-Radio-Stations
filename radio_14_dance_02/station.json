@@ -198,6 +198,137 @@
                         }
                     ]
                 }
+            },
+            {
+                "path": "flylo_island_update_part_1.m4a",
+                "duration": 1683.624,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 36,
+                            "title": "Possessed",
+                            "artist": "CAPTAIN MURPHY"
+                        },
+                        {
+                            "offset": 158961,
+                            "title": "Fuck The Police",
+                            "artist": "J DILLA"
+                        },
+                        {
+                            "offset": 311694,
+                            "title": "Black Heaven",
+                            "artist": "FLYING LOTUS, RAS G"
+                        },
+                        {
+                            "offset": 389642,
+                            "title": "Been Cosmic",
+                            "artist": "RAS G"
+                        },
+                        {
+                            "offset": 448200,
+                            "title": "The Daisy",
+                            "artist": "ROSS FROM FRIENDS"
+                        },
+                        {
+                            "offset": 571338,
+                            "title": "Topdown",
+                            "artist": "CHANNEL TRES"
+                        },
+                        {
+                            "offset": 734983,
+                            "title": "Spiritual",
+                            "artist": "SMOKE DZA"
+                        },
+                        {
+                            "offset": 874409,
+                            "title": "Afterlife Currency",
+                            "artist": "DAVID FIRTH"
+                        },
+                        {
+                            "offset": 911184,
+                            "title": "Lunch Break",
+                            "artist": "FLYING LOTUS, MF DOOM"
+                        },
+                        {
+                            "offset": 1061260,
+                            "title": "Dragonball Durag",
+                            "artist": "THUNDERCAT"
+                        },
+                        {
+                            "offset": 1226930,
+                            "title": "GLOMERULONEPHROPATHY",
+                            "artist": "SYUNSUKE ONO"
+                        },
+                        {
+                            "offset": 1349663,
+                            "title": "The Bean Kicked In",
+                            "artist": "ZACK FOX"
+                        },
+                        {
+                            "offset": 1451246,
+                            "title": "Black Balloons Reprise",
+                            "artist": "FLYING LOTUS FEAT. DENZEL CURRY"
+                        }
+                    ]
+                }
+            },
+            {
+                "path": "flylo_island_update_part_2.m4a",
+                "duration": 1786.848,
+                "markers": {
+                    "track": [
+                        {
+                            "offset": 1272,
+                            "title": "Automatic",
+                            "artist": "FREDDIE GIBBS"
+                        },
+                        {
+                            "offset": 143245,
+                            "title": "Homicidal Thoughts",
+                            "artist": "LITTLE SNAKE"
+                        },
+                        {
+                            "offset": 295143,
+                            "title": "Arrogant",
+                            "artist": "TIERRA WHACK"
+                        },
+                        {
+                            "offset": 428408,
+                            "title": "You're Untouchable",
+                            "artist": "DORIAN CONCEPT"
+                        },
+                        {
+                            "offset": 536129,
+                            "title": "U Have To Be Odd",
+                            "artist": "FLYING LOTUS"
+                        },
+                        {
+                            "offset": 697167,
+                            "title": "Planet X",
+                            "artist": "LOUIS COLE"
+                        },
+                        {
+                            "offset": 863054,
+                            "title": "Itkanbe [Sonice]",
+                            "artist": "KNXWLEDGE FEAT. ANDERSON .PAAK, NXWORRIES"
+                        },
+                        {
+                            "offset": 957876,
+                            "title": "Shine A Light",
+                            "artist": "SHABAZZ PALACES"
+                        },
+                        {
+                            "offset": 1114427,
+                            "title": "Road Of The Lonely Ones",
+                            "artist": "MADLIB"
+                        },
+                        {
+                            "offset": 1319218,
+                            "title": "In The Wake Of Poseidon",
+                            "artist": "KING CRIMSON"
+                        }
+                    ]
+                }
             }
         ]
     }
