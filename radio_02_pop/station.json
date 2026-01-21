@@ -2100,11 +2100,6 @@
         ],
         "mono_solo": [
             {
-                "path": "mono_solo/heists_obh_briefcase_close_mt_thud.m4a",
-                "duration": 19.05,
-                "audibleDuration": 18.046
-            },
-            {
                 "path": "mono_solo/mono_solo_01.m4a",
                 "duration": 23.11,
                 "audibleDuration": 21.9
@@ -2138,6 +2133,11 @@
                 "path": "mono_solo/mono_solo_07.m4a",
                 "duration": 21.18,
                 "audibleDuration": 20.11
+            },
+            {
+                "path": "mono_solo/mono_solo_08.m4a",
+                "duration": 19.05,
+                "audibleDuration": 18.046
             },
             {
                 "path": "mono_solo/mono_solo_09.m4a",
